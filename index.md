@@ -3,11 +3,13 @@ layout: default
 ---
 
 # Hardware-related / Documentation
-* GBTx documentation:
+* GBTx documentation
+![Build status](https://travis-ci.com/ypsun-umd/gbtx_communication_doc.svg?master):
 [repo](https://github.com/ypsun-umd/gbtx_communication_doc)
 [latest](https://github.com/ypsun-umd/gbtx_communication_doc/releases/latest)
 
-* Altium netlists for PigTail and DCB:
+* Altium netlists for PigTail and DCB
+![Build status](https://travis-ci.com/ZishuoYang/UT-Backplane-mapping.svg?master):
 [repo](https://github.com/ZishuoYang/UT-Backplane-mapping)
 [latest](https://github.com/ZishuoYang/UT-Backplane-mapping/releases/latest)
 
