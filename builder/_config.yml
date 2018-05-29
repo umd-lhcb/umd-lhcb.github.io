@@ -1,0 +1,18 @@
+title: UMD LHCb softwares on github.com
+description: Reference webpage for softwares written by UMD LHCb people.
+
+# Build settings
+markdown: kramdown
+repository: umd-lhcb/umd-lhcb.github.io
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
