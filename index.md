@@ -12,5 +12,5 @@ layout: default
 [latest](https://github.com/ZishuoYang/UT-Backplane-mapping/releases/latest)
 
 # Burn-in
-All these softwares will be distributed via git directly;
+All the software will be distributed by git directly;
 we list them below just for completeness.
