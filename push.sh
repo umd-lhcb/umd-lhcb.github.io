@@ -7,7 +7,7 @@ setup_git() {
 
 commit_website_files() {
   git fetch origin
-  git checkout master
+  git checkout -b master origin/master
   git add index.html
   git add assets
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
