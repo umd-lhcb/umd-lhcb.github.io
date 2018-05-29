@@ -6,6 +6,10 @@ setup_git() {
 }
 
 commit_website_files() {
+  # This is crucial: The particular way travis ci clones implies single branch,
+  # so we need to fix that.
+  git config --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/*
+  # Now we can fetch any branch
   git fetch origin
   git checkout -b master origin/master
   git add index.html
