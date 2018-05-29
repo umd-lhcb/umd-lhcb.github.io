@@ -9,6 +9,7 @@ layout: default
 
 * Altium netlists for PigTail and DCB:
 [repo](https://github.com/ZishuoYang/UT-Backplane-mapping)
+[latest](https://github.com/ZishuoYang/UT-Backplane-mapping/releases/latest)
 
 # Burn-in
 All these softwares will be distributed via git directly;
