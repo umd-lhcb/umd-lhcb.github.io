@@ -8,11 +8,11 @@ Licensed under CC0, same as the original hackers theme.
 ## Build
 To build, first checkout the `build` branch:
 ```
-git fetch
+git fetch origin
 git checkout -b build origin/build
 ```
 
-Then edit the `index.md` to your liking.
+Then edit the `index.md` to your likings.
 After commit, push your changes to the same branch:
 ```
 git push origin build
