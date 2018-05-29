@@ -12,6 +12,10 @@ commit_website_files() {
   # Now we can fetch any branch
   git fetch origin
   git checkout -b master origin/master
+  # Now we copy generated files to current working tree
+  cp -r ./_site/assets .
+  cp -r ./_site/index.html .
+  # Finally we should be able to commit
   git add index.html
   git add assets
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
