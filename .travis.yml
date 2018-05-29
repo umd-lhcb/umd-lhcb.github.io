@@ -11,6 +11,8 @@ install: gem install jekyll html-proofer
 script:
     - jekyll build
     - htmlproofer ./_site
+    - cp -r ./_site/assets .
+    - cp -r ./_site/index.html .
 
 after_success: ./push.sh
 
