@@ -193,14 +193,12 @@ hr {
 a {
   background: #243b98;
   color: #cae9eb;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   padding: 1.5px;
   text-decoration: none; }
 
 a:hover {
   background: #cae9eb;
   color: #243b98;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   padding: 1.5px;
   text-decoration: none; }
 
