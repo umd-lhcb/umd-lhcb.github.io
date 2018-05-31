@@ -194,19 +194,31 @@ a {
   background: #243b98;
   color: #cae9eb;
   padding: 1.5px;
-  text-decoration: none; }
+  text-decoration: none;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out; }
 
 a:hover {
   background: #cae9eb;
   color: #243b98;
   padding: 1.5px;
-  text-decoration: none; }
+  text-decoration: none;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out; }
 
 /* Travis-CI badges
    Manually offset and remove url styles for these badges only
 */
 img[src*="travis-ci.com"] {
-  margin: 0 0 -4.5px 0; }
+  margin: 0 0 -4.5px 0;
+  opacity: 1;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out; }
+
+img[src*="travis-ci.com"]:hover {
+  opacity: .7;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out; }
 
 a[href*="travis-ci.com"] {
   color: none;
