@@ -196,6 +196,8 @@ a {
   color: $lhcb_fg;
   padding: 1.5px;
   text-decoration: none;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
 }
 
 a:hover {
@@ -203,6 +205,8 @@ a:hover {
   color: $lhcb_bg;
   padding: 1.5px;
   text-decoration: none;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
 }
 
 
@@ -212,6 +216,15 @@ a:hover {
 
 img[src*="travis-ci.com"] {
   margin: 0 0 -4.5px 0;
+  opacity: 1;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+img[src*="travis-ci.com"]:hover {
+  opacity: .7;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
 }
 
 a[href*="travis-ci.com"] {
