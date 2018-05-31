@@ -202,17 +202,13 @@ a:hover {
   padding: 1.5px;
   text-decoration: none; }
 
-/* Images
-   Manually offset images since all images we are gonna use are Travis CI build status
+/* Travis-CI badges
+   Manually offset and remove url styles for these badges only
 */
-img {
+img[src*="travis-ci.com"] {
   margin: 0 0 -4.5px 0; }
 
-.url-no-style {
-  color: none;
-  background: none; }
-
-.url-no-style:hover {
+a[href*="travis-ci.com"] {
   color: none;
   background: none; }
 
