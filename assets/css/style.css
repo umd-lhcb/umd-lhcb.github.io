@@ -202,6 +202,20 @@ a:hover {
   padding: 1.5px;
   text-decoration: none; }
 
+/* Images
+   Manually offset images since all images we are gonna use are Travis CI build status
+*/
+img {
+  margin: 0 0 -4.5px 0; }
+
+.url-no-style {
+  color: none;
+  background: none; }
+
+.url-no-style:hover {
+  color: none;
+  background: none; }
+
 /* Clearfix */
 .cf:before, .cf:after {
   content: "";
