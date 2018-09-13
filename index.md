@@ -17,6 +17,13 @@ https://travis-ci.com/ypsun-umd/gbtx_communication_doc):
 [repo](https://github.com/ypsun-umd/gbtx_communication_doc)
 [latest](https://github.com/ypsun-umd/gbtx_communication_doc/releases/latest)
 
+* DCB design verification measurements
+[![Build status](
+https://travis-ci.com/umd-lhcb/dcb_design_verification_measurements.svg?master)](
+https://travis-ci.com/umd-lhcb/dcb_design_verification_measurements):
+[repo](https://github.com/umd-lhcb/dcb_design_verification_measurements)
+[latest](https://github.com/umd-lhcb/dcb_design_verification_measurements/releases/latest)
+
 
 # Analysis / Toolkit containers
 * Toolkit docker images:
