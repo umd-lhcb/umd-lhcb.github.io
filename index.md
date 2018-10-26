@@ -27,7 +27,7 @@ https://travis-ci.com/ypsun-umd/dcb_design_verification_measurements):
 
 # Analysis / Toolkit containers
 * Toolkit docker images:
-[repo](https://github.com/ypsun-umd/docker-images)
+[repo](https://github.com/umd-lhcb/docker-images)
 [hep_ml](https://hub.docker.com/r/ypsunumd/hep_ml)
 [lhcb-stack-cc7](https://hub.docker.com/r/ypsunumd/lhcb-stack-cc7)
 
