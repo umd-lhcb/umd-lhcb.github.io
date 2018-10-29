@@ -12,6 +12,13 @@ sass:
 plugins:
     - jekyll-autoprefixer
 
+# Generating navbar programmatically
+navigation:
+    - title: Home
+      url: /index.html
+    - title: Projects
+      url: /projects.html
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

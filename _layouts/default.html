@@ -16,10 +16,14 @@
       </a>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link" href="#">Papers</a>
-          <a class="nav-item nav-link" href="projects.html">Projects</a>
-          <a class="nav-item nav-link" href="#">People</a>
+          {% assign links = site.navigation %}
+          {% for link in links %}
+            {% if page.url contains link.url %}
+              <a class="nav-item nav-link active" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}<span class="sr-only">(current)</span></a>
+            {% else %}
+              <a class="nav-item nav-link {{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
     </nav>
