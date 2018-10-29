@@ -14,10 +14,10 @@ commit_website_files() {
   git checkout -b master origin/master
   # Now we copy generated files to current working tree
   cp -r ./_site/assets .
-  cp -r ./_site/index.html .
+  cp -r ./_site/*.html .
   ls -l
   # Finally we should be able to commit
-  git add index.html
+  git add *.html
   git add assets
   git commit -a --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
