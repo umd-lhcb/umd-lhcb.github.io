@@ -6,10 +6,16 @@
 
 /* Addtional padding for text */
 .textbox {
-    padding: 35px;
+    padding: 2em;
 }
 
 /* Stretch the banner image */
-.section-banner img {
-    width: 100%;
+.section-title {
+    text-align: center;
+    //vertical-align: middle;
+    font-size: 32pt;
+    color: #ffffff;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+    background: linear-gradient(rgba(31,31,31,1), rgba(31,31,31,.3)), url("/assets/images/lhcb.png");
 }
