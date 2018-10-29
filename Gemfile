@@ -10,3 +10,6 @@ gem 'jekyll-seo-tag'
 # For bootstrap CSS
 gem 'jekyll-autoprefixer'
 gem 'therubyracer'  # Used to configure autoprefixer
+
+# For testing html pages
+gem 'html-proofer'

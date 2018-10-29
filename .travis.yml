@@ -6,7 +6,7 @@ branches:
     only:
         build
 
-install: gem install jekyll html-proofer
+install: bundle install
 
 script:
     - jekyll build
