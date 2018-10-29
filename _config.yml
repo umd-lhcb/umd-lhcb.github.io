@@ -1,7 +1,6 @@
 title: UMD flavor changing and CP violation group
 description: Reference webpage for software written by UMD LHCb people.
 
-# Build settings
 markdown: kramdown
 repository: umd-lhcb/umd-lhcb.github.io
 
@@ -10,8 +9,7 @@ sass:
     sass_dir: _sass
     style: compressed
 
-# Plugins
-gems:
+plugins:
     - jekyll-autoprefixer
 
 # Exclude from processing.
