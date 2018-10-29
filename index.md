@@ -18,5 +18,4 @@ collider at CERN (2012-present).
 We are also heavily engaged in the design and development of the tracking
 system for the upgrade of the LHCb detector.
 
-
-![A typical LHCb event](/assets/images/event_display_2d.jpg){:class="img-fluid mx-auto d-block"}
+{% include figure.html file="event_display_2d.jpg" alt="LHCb event display" caption="A typical LHCb event" %}
