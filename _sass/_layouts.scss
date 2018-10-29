@@ -1,15 +1,15 @@
-/* Restrict the total width of content */
+// Restrict the total width of content
 .container {
     width: 70%;
     margin: auto;
 }
 
-/* Addtional padding for text */
+// Addtional padding for text
 .textbox {
     padding: 2em;
 }
 
-/* Stretch the banner image */
+// Use a stretched image as title background
 .section-title {
     text-align: center;
     //vertical-align: middle;
@@ -20,4 +20,9 @@
     //background: linear-gradient(rgba(147,0,0,1), rgba(147,0,0,.3)), url("/assets/images/lhcb.png");
     //background: linear-gradient(rgba(31,31,31,1), rgba(31,31,31,.3)), url("/assets/images/lhcb.png");
     background: linear-gradient(rgba(28,28,28,1), rgba(28,28,28,.3)), url("/assets/images/lhcb.png");
+}
+
+// Use Computer Modern Serif font
+body {
+    font-family: "Computer Modern Serif", serif
 }
