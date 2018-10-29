@@ -18,5 +18,18 @@
 
 // reduce font size for headers
 h1 {
-    font-size: 24pt;
+    font-size: 22pt;
+}
+
+h2 {
+    font-size: 20pt;
+}
+
+h3 {
+    font-size: 18pt;
+}
+
+// Image width
+.img-fluid {
+    max-width: 90%;
 }
