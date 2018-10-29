@@ -18,7 +18,9 @@
         <div class="navbar-nav">
           {% assign links = site.navigation %}
           {% for link in links %}
-            {% if page.url contains link.url %}
+            {% if link.url == '/index.html' and page.url == '/' %}
+              <a class="nav-item nav-link active" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}<span class="sr-only">(current)</span></a>
+            {% elsif page.url contains link.url %}
               <a class="nav-item nav-link active" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}<span class="sr-only">(current)</span></a>
             {% else %}
               <a class="nav-item nav-link {{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
