@@ -10,7 +10,7 @@ install: bundle install
 
 script:
     - jekyll build
-    #- htmlproofer ./_site
+    - htmlproofer --checks-to-ignore ScriptCheck ./_site
 
 after_success: ./push.sh
 
