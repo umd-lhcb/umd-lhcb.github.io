@@ -3,5 +3,10 @@ source "https://rubygems.org"
 # Use vanilla jekyll
 gem "jekyll"
 
-# Use github's jekyll themes
-#gem "github-pages", group: :jekyll_plugins
+# For bootstrap general
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+
+# For bootstrap CSS
+gem 'jekyll-autoprefixer'
+gem 'therubyracer'  # Used to configure autoprefixer

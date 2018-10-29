@@ -5,6 +5,15 @@ description: Reference webpage for software written by UMD LHCb people.
 markdown: kramdown
 repository: umd-lhcb/umd-lhcb.github.io
 
+# Minify generated CSS
+sass:
+    sass_dir: _sass
+    style: compressed
+
+# Plugins
+gems:
+    - jekyll-autoprefixer
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
