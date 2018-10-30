@@ -16,8 +16,8 @@ plugins:
 navigation:
     - title: Home
       url: /index.html
-    - title: Projects
-      url: /projects.html
+    - title: Software
+      url: /software.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
