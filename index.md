@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UMD Flavor Changing and CP Violation group
+title: UMD Flavor Physics and CP Violation Group
 ---
 
 The research group on Flavor Physics and CP violation at University of Maryland
