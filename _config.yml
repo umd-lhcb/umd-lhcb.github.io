@@ -80,9 +80,9 @@ repos:
       descr: Dockers for LHCb data analysis
     - url: https://github.com/umd-lhcb/umd-lhcb.github.io
       descr: Group website
-    - url: https://github.com/ypsun-umd/dcb_design_verification_measurements
-      descr: DCB design verification measurements
-      has_release: true
+    #- url: https://github.com/ypsun-umd/dcb_design_verification_measurements
+      #descr: DCB design verification measurements
+      #has_release: true
 
 
 # Exclude from processing.
