@@ -11,6 +11,7 @@ sass:
 
 plugins:
     - jekyll-autoprefixer
+    - jekyll-tidy
 
 # Generating navbar programmatically
 navigation:
@@ -20,6 +21,9 @@ navigation:
       url: /people.html
     - title: Software
       url: /software.html
+
+jekyll_tidy:
+    compress_html: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -9,3 +9,6 @@ gem 'therubyracer'  # Used to configure autoprefixer
 
 # For testing html pages
 gem 'html-proofer'
+
+# clean up html
+gem 'jekyll-tidy'
