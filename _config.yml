@@ -16,6 +16,8 @@ plugins:
 navigation:
     - title: Home
       url: /index.html
+    - title: People
+      url: /people.html
     - title: Software
       url: /software.html
 
