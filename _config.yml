@@ -13,6 +13,9 @@ plugins:
     - jekyll-autoprefixer
     - jekyll-tidy
 
+jekyll_tidy:
+    compress_html: false
+
 # Generating navbar programmatically
 navigation:
     - title: Home
@@ -22,8 +25,48 @@ navigation:
     - title: Software
       url: /software.html
 
-jekyll_tidy:
-    compress_html: false
+# Current member of the group
+current_members:
+    - name: Hassan Jawahery
+      title: Distinguished University Professor and the Gus T. Zorn Professor
+      email: jawahery@physics.umd.edu
+      address: 3208G Physical Sciences Complex
+    - name: Manuel Franco Sevilla
+      title: Assistant Professor
+      email: manuelf@umd.edu
+      address: 3114 Physical Sciences Complex
+      website: http://flavor.physics.umd.edu/manuelf
+    - name: Sally Megonigal
+      title: Group Secretary
+      email: smegonig@umd.edu
+      address: 3208 Physical Sciences Complex
+    - name: Thomas O'Bannon
+      title: Electrical Engineer
+      email: tobannon@umd.edu
+      address: 3208E Physical Sciences Complex
+    - name: Brian Hamilton
+      title: Postdoc
+      email: bkham@umd.edu
+      address: 3105 Physical Sciences Complex
+    - name: William Parker
+      title: Postdoc
+      email: wcparker@umd.edu
+      address: 3105 Physical Sciences Complex
+    - name: Zishuo Yang
+      title: Graduate Student
+      email: zsyang@umd.edu
+      address: 3101 Physical Sciences Complex
+    - name: Yipeng Sun
+      title: Graduate Student
+      email: syp@umd.edu
+      address: 3101 Physical Sciences Complex
+
+# Past member of the group
+past_members:
+    - name: Jack Wimberley
+      title: PhD, graduated
+    - name: Jason Andrews
+      title: PhD, graduated
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
