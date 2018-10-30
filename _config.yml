@@ -17,7 +17,9 @@ plugins:
 jekyll_tidy:
     compress_html: false
 
-#scholar:
+scholar:
+    sort_by: year
+    order: descending
     #style: mla
 
 # Generating navbar programmatically
