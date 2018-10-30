@@ -12,3 +12,6 @@ gem 'html-proofer'
 
 # clean up html
 gem 'jekyll-tidy'
+
+# Bibliography
+gem 'jekyll-scholar'

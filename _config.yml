@@ -12,9 +12,13 @@ sass:
 plugins:
     - jekyll-autoprefixer
     - jekyll-tidy
+    - jekyll-scholar
 
 jekyll_tidy:
     compress_html: false
+
+#scholar:
+    #style: mla
 
 # Generating navbar programmatically
 navigation:
@@ -22,6 +26,8 @@ navigation:
       url: /index.html
     - title: People
       url: /people.html
+    - title: Papers
+      url: /papers.html
     - title: Software
       url: /software.html
 
