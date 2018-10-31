@@ -19,6 +19,7 @@ commit_website_files() {
   # Finally we should be able to commit
   git add *.html
   git add assets
+  git add pages
   git commit -a --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
