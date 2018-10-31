@@ -21,7 +21,6 @@ Currently, semitauonic $B$ decays such as $B \to D^{(*)}\tau\nu_\tau$ present a 
 to the SM predictions that is significant at the 3.8σ level, eliciting great interest in the particle physics community.
 * The **readout electronics** for the new Upstream Tracker detector to be installed into LHCb during 2019 and 2020.
 
-
 {% include figure.html file="event_display_2d.jpg"
                        alt="LHCb event display"
                        caption="A typical LHCb event"
