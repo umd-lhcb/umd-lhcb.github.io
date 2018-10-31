@@ -19,8 +19,7 @@ jekyll_tidy:
 scholar:
     sort_by: year
     order: descending
-    bibtex_filters:
-        - markdown
+    bibtex_filters: []
     style: _bibliography/apa-custom.csl
     #bibliography_list_tag: ul  # Entries not numbered if tagged this way
 
