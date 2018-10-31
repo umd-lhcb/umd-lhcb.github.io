@@ -16,7 +16,7 @@ curl -L https://get.rvm.io | bash -s stable --auto-dotfiles --autolibs=enable --
 gem install bundler
 ```
 
-Now it's time to install 'jekyll' and all its dependencies. Go to the root
+Now it's time to install `jekyll` and all its dependencies. Go to the root
 directory of this project (you should see a 'Gemfile' here):
 ```
 bundle install
