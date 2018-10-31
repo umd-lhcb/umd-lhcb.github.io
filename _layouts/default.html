@@ -5,11 +5,10 @@
   <body>
     {% include navbar.html %}
 
-    <div class="container">
-      <div class="section-title">
-        {{ page.title }}
-      </div>
-    </div>
+    {% capture page_title %}
+    {{ page.title }}
+    {% endcapture %}
+    {% include title.html title=page_title %}
 
     <div class="container">
       <div class="bg-light">
