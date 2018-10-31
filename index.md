@@ -13,7 +13,7 @@ the OPAL experiment at the LEP collider at CERN, the BaBar experiment at SLAC (1
 experiment at the Large Hadron Collider (LHC) at CERN (2012-present).
 
 Currently, our research focuses on the following areas:
-* **CP violation** measurements such as $B^+ \to K^+\pi^0$ or blah that could help explain why
+* **CP violation** measurements such as $B^+ \to K^+\pi^0$ or $B^0 \to {K_S}^0\pi^0$ that could help explain why
 our Universe has so much more matter than anti-matter.
 * Tests of **lepton flavor universality**, a fundamental assumption within the SM that states that the
 interactions of all charged leptons (electrons, muons, and taus) differ only because of their different masses.
