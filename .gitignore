@@ -1,6 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
-Gemfile.lock
 *.txt
-.rvmrc
+.ruby-version
+.ruby-gemset
