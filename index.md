@@ -27,7 +27,7 @@ Currently, our research focuses on the following areas:
 * The **readout electronics** for the new Upstream Tracker detector to be
   installed into LHCb during 2019 and 2020.
 
-{% include figure.html file="event_display_2d.jpg"
-                       alt="LHCb event display"
-                       caption="A typical LHCb event"
+{% include figure.html file="lhcb_detector_3d.jpg"
+                       alt="LHCb detector"
+                       caption="A 3D rendering of current (2018) LHCb detector."
 %}
