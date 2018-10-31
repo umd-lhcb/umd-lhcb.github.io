@@ -146,7 +146,7 @@
         <choose>
           <if variable="DOI">
             <text variable="DOI" match="any"
-                  prefix="&lt;a class='url-in-grid' href=&#34;https://doi.org/"
+                  prefix="&lt;a href=&#34;https://doi.org/"
                   suffix="&#34;&gt;doi&lt;/a&gt;"/>
           </if>
           <else>

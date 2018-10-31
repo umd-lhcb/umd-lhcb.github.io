@@ -38,21 +38,13 @@ h3 {
 
 // Transition on all urls
 a {
+    color: #8f0000;
     opacity: 1;
     -webkit-transition: .2s ease-in-out;
     transition: .2s ease-in-out;
 }
 
 a:hover {
+    color: #8f0000;
     opacity: .7;
-}
-
-
-// Custom url class color
-.url-in-grid {
-    color: #8f0000;
-}
-
-.url-in-grid:hover {
-    color: #8f0000;
 }
