@@ -1,11 +1,8 @@
 <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-primary container">
   <div class="navbar-brand">
     <a href="https://umdphysics.umd.edu">
-      <img src="/assets/images/UMD_globe_transparent.png" alt="UMD logo" height="60"
-	   style="padding-right:10px" /></a>
-    <a href="https://lhcb.web.cern.ch/lhcb">
-      <img src="/assets/images/LHCb_logo.jpg" alt="LHCb logo" height="56"
-	   style="padding-right:10px" /></a>
+      <img src="/assets/images/umd_logo.png" alt="UMD logo" height="55">
+    </a>
   </div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavItems">
     <span class="navbar-toggler-icon"></span>
@@ -22,6 +19,11 @@
           <a class="nav-item nav-link font-weight-bold {{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
         {% endif %}
       {% endfor %}
+    </div>
+    <div class="navbar-brand mr-0">
+      <a href="https://lhcb-public.web.cern.ch/lhcb-public/">
+        <img src="/assets/images/lhcb_logo.png" alt="UMD logo" height="55">
+      </a>
     </div>
   </div>
 </nav>

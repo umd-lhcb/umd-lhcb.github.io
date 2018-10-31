@@ -10,9 +10,9 @@
     font-size: 32pt;
     padding-top: 0.6em;
     padding-bottom: 0.6em;
-    //background: linear-gradient(rgba(147,0,0,1), rgba(147,0,0,.3)), url("/assets/images/lhcb.png");
-    background: linear-gradient(rgba(31,31,31,1), rgba(31,31,31,.3)), url("/assets/images/lhcb.png");
-    //background: linear-gradient(rgba(28,28,28,1), rgba(28,28,28,.3)), url("/assets/images/lhcb.png");
+    //background: linear-gradient(rgba(147,0,0,1), rgba(147,0,0,.3)), url("/assets/images/title_bg.png");
+    background: linear-gradient(rgba(31,31,31,1), rgba(31,31,31,.3)), url("/assets/images/title_bg.png");
+    //background: linear-gradient(rgba(28,28,28,1), rgba(28,28,28,.3)), url("/assets/images/title_bg.png");
 }
 
 // reduce font size for headers
@@ -34,9 +34,9 @@ h3 {
 //}
 
 .url-in-grid {
-    color: #560000;
+    color: #8f0000;
 }
 
 .url-in-grid:hover {
-    color: #500000;
+    color: #cc0000;
 }
