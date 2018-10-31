@@ -5,18 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" href="/assets/css/cmun-serif/cmun-serif.css">
-    <link rel="shortcut icon" type="image/png", href="/assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/png", href="/assets/images/umd_logo.png">
     <title>LHCb group at the University of Maryland</title>
   </head>
   <body>
     <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-primary container">
       <div class="navbar-brand">
         <a href="https://umdphysics.umd.edu">
-          <img src="/assets/images/UMD_globe_transparent.png" alt="UMD logo" height="60"
-	   style="padding-right:10px" /></a>
-        <a href="https://lhcb.web.cern.ch/lhcb">
-          <img src="/assets/images/LHCb_logo.jpg" alt="LHCb logo" height="56"
-	   style="padding-right:10px" /></a>
+          <img src="/assets/images/umd_logo.png" alt="UMD logo" height="55">
+        </a>
       </div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavItems">
         <span class="navbar-toggler-icon"></span>
@@ -27,6 +24,11 @@
           <a class="nav-item nav-link font-weight-bold " href="/pages/people.html">People</a>
           <a class="nav-item nav-link font-weight-bold " href="/pages/papers.html">Papers</a>
           <a class="nav-item nav-link font-weight-bold " href="/pages/software.html">Software</a>
+        </div>
+        <div class="navbar-brand mr-0">
+          <a href="https://lhcb-public.web.cern.ch/lhcb-public/">
+            <img src="/assets/images/lhcb_logo.png" alt="UMD logo" height="55">
+          </a>
         </div>
       </div>
     </nav>
@@ -47,17 +49,11 @@
             experiment at the Large Hadron Collider (LHC) at CERN (2012-present).</p>
           <p>Currently, our research focuses on the following areas:</p>
           <ul>
-            <li><strong>CP violation</strong> measurements such as <script type="math/tex">
-                B^+ \rightarrow K^+\pi^0
-              </script> or blah that could help explain why
-              our Universe has so much more matter than anti-matter.</li>
+            <li><strong>CP violation</strong> measurements such as $B^+ \to K^+\pi^0$ or $B^0 \to {K_S}^0\pi^0$ that could help explain why
+              our universe has so much more matter than anti-matter.</li>
             <li>Tests of <strong>lepton flavor universality</strong>, a fundamental assumption within the SM that states that the
               interactions of all charged leptons (electrons, muons, and taus) differ only because of their different masses.
-              Currently, semitauonic <script type="math/tex">
-                B
-              </script> decays such as <script type="math/tex">
-                B \rightarrow D^{(*)}\tau\nu_\tau
-              </script> present a deviation with respect
+              Currently, semitauonic $B$ decays such as $B \to D^{(*)}\tau\nu_\tau$ present a deviation with respect
               to the SM predictions that is significant at the 3.8σ level, eliciting great interest in the particle physics community.</li>
             <li>The <strong>readout electronics</strong> for the new Upstream Tracker detector to be installed into LHCb during 2019 and 2020.</li>
           </ul>
@@ -72,6 +68,14 @@
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+      <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+          });
+      </script>
       <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
     </footer>
   </body>
