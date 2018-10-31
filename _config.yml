@@ -28,11 +28,11 @@ navigation:
     - title: Home
       url: /index.html
     - title: People
-      url: /people.html
+      url: /pages/people.html
     - title: Papers
-      url: /papers.html
+      url: /pages/papers.html
     - title: Software
-      url: /software.html
+      url: /pages/software.html
 
 # Current member of the group
 current_members:
@@ -101,11 +101,12 @@ repos:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - push.sh
