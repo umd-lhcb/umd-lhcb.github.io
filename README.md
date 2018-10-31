@@ -17,8 +17,8 @@ git checkout -b build origin/build
 ```
 
 ## Editing "Home"
-Edit the `index.md` to your likings. Note that this is the only markdown file
-that **should** be edited manually.
+Edit the `index.md` to your likings. Note that this is **the only markdown
+file** that should be edited manually.
 
 ## Editing "People"
 Edit the `current_members` and `past_members` in `_config.yml`
