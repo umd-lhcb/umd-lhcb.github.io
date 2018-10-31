@@ -16,18 +16,18 @@ git fetch origin
 git checkout -b build origin/build
 ```
 
-## Editing "Home"
+### Editing "Home"
 Edit the `index.md` to your likings. Note that this is **the only markdown
 file** that should be edited manually.
 
-## Editing "People"
+### Editing "People"
 Edit the `current_members` and `past_members` in `_config.yml`
 
-## Editing "Papers"
+### Editing "Papers"
 Edit the `_bibliography/papers.bib`. This is a regular LaTeX bib file. Note
 that all curly brackets `{}` should be removed.
 
-## Editing "Software"
+### Editing "Software"
 Edit the `repos` in `config.yml`.
 
 After committing, push your changes to remote `build` branch:
@@ -37,3 +37,7 @@ git push origin build
 
 Wait for a couple of seconds (~120s) as the Travis CI server automatically
 builds the page for you.
+
+## Acknowledgement
+We used [bedford.io](https://bedford.io) as a layout reference. Also, we
+partially reused Jack Wimberley's intro on the original website. Many thanks!
