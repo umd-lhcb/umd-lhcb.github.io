@@ -147,7 +147,7 @@
           <if variable="DOI">
             <text variable="DOI" match="any"
                   prefix="&lt;a href=&#34;https://doi.org/"
-                  suffix="&#34;&gt;doi&lt;/a&gt;"/>
+                  suffix="&#34;&gt;&lt;span style=&#34;font-variant:small-caps;&#34;&gt;doi&lt;/span&gt;&lt;/a&gt;"/>
           </if>
           <else>
             <choose>
