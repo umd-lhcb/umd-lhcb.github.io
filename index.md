@@ -13,11 +13,11 @@ the OPAL experiment at the LEP collider at CERN, the BaBar experiment at SLAC (1
 experiment at the Large Hadron Collider (LHC) at CERN (2012-present).
 
 Currently, our research focuses on the following areas:
-* **CP violation** measurements such as $$B^+ \rightarrow K^+\pi^0$$ or blah that could help explain why
+* **CP violation** measurements such as $B^+ \to K^+\pi^0$ or blah that could help explain why
 our Universe has so much more matter than anti-matter.
 * Tests of **lepton flavor universality**, a fundamental assumption within the SM that states that the
 interactions of all charged leptons (electrons, muons, and taus) differ only because of their different masses.
-Currently, semitauonic $$B$$ decays such as $$B \rightarrow D^{(*)}\tau\nu_\tau$$ present a deviation with respect
+Currently, semitauonic $B$ decays such as $B \to D^{(*)}\tau\nu_\tau$ present a deviation with respect
 to the SM predictions that is significant at the 3.8σ level, eliciting great interest in the particle physics community.
 * The **readout electronics** for the new Upstream Tracker detector to be installed into LHCb during 2019 and 2020.
 
