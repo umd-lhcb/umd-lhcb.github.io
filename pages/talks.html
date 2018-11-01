@@ -15,7 +15,8 @@ title: Talks
           {% for section in site.data.talks %}
             <h1>{{ section.section }}</h1>
             <div class="row">
-            {% for talk in section.talks %}
+            {% assign sorted = section.talks | sort: "date" | reverse %}
+            {% for talk in sorted %}
               <div class="col-12 col-md-4 mb-4">
                 <div class="row">
                   <div class="col-12">
@@ -31,11 +32,9 @@ title: Talks
                     <div class="font-weight-normal text-secondary">{{ talk.location }}</div>
                   </div>
                   {% endif %}
-                  {% if talk.date %}
                   <div class="col-12">
-                    <div class="font-weight-normal text-secondary">{{ talk.date }}</div>
+                    <div class="font-weight-normal text-secondary">{{ talk.date | date: "%B %-d, %Y" }}</div>
                   </div>
-                  {% endif %}
                 </div>
               </div>
             {% endfor %}

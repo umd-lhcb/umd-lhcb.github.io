@@ -1,12 +1,20 @@
 - section: Hassan Jawahery
   talks:
-      - title: CP Violation in the 21st Century
-        url: /talks/20150515-jawahery.pdf
-        date: May 15, 2015
-        meeting: Symposium and Memorial Concert for Val Fitch
-        location: Princeton University
       - title: Flavor physics today
         url: https://portal.slac.stanford.edu/sites/conf_public/leith/presentations/Jawahery.pdf
-        date: Dec 12, 2014
         meeting: Symposium in Honor of David Leith
         location: SLAC National Accelerator Laboratory, Stanford
+        date: 2014-12-12
+      - title: CP Violation in the 21st Century
+        url: /talks/20150515-jawahery.pdf
+        meeting: Symposium and Memorial Concert for Val Fitch
+        location: Princeton University
+        date: 2015-05-15
+
+- section: Brian Hamilton
+  talks:
+      - title: Experimental Overview of Lepton Nonuniversality Results and Prospects from $B$ Physics
+        url: https://cds.cern.ch/record/2043834/files/LHCb-TALK-2015-216.pdf
+        meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2015)
+        location: Ann Arbor, MI
+        date: 2015-08-07
