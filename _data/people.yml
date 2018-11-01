@@ -41,7 +41,7 @@
       - name: Douglas Roberts
         title: Associate Professor
 
-- section: Former graduate students
+- section: Former graduate students and postdocs
   members:
       - name: Jason Andrews
         title: PhD
@@ -49,3 +49,35 @@
         title: PhD
       - name: Brian Hamilton
         title: PhD. Postdoc at UMD
+      - name: Riccardo Cenci
+        title: Research Associate at INFN Sezione di Pisa, Italy
+      - name: Gabriele Simi
+        title: Assistant Professor at the University of Padova, Italy
+      - name: Chunhui Chen
+        title: Associate Professor at Iowa State University
+      - name: Joe Tuggle
+        title: Fellow at AAAS
+      - name: Wouter Hulsbergen
+        title: Senior Scientist at NIKHEF, the Netherlands
+      - name: Dmytro Kovalskyi
+        title: Senior Research Associate, MIT
+      - name: Amir Farbin
+        title: Associate Professor at the University of Texas, Arlington
+      - name: Jim Olsen
+        title: Professor at Princeton University
+      - name: Carlo Dallapiccola
+        title: Professor at the University of Massachusetts, Amherst
+      - name: Matthew Herndon
+        title: Associate Professor at the University of Wisconsin
+      - name: Robert W. Springer
+        title: Associate Professor at the University of Utah
+      - name: Gordon D. Long
+        title: Chief Engineer, Naval Aviation Systems
+      - name: John M. Lorah
+        title: Senior Staff Computer Sciences Corporation
+      - name: Maurice Foucher
+        title: Raytheon
+      - name: Vivek Sharma
+        title: Professor at the University of California, San Diego
+      - name: Pasquale Lubrano
+        title: Senior Scientist at the University of Perugia, INFN Perugia, Italy
