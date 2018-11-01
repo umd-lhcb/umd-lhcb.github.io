@@ -25,6 +25,38 @@
         meeting: Snowmass on the Mississippi
         location: Minneapolis, MN
         date: 2013-07-31
+      - title: CP Violation
+        url: https://indico.cern.ch/event/129980/session/1/contribution/47/attachments/90653/129664/Jawahery-CPV-DFP2011.pdf
+        meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
+        location: Providence, RI
+        note: Plenary talk
+        date: 2011-08-13
+      - title: "CLEO's Impact: A view from the Inside and the Outside"
+        url: http://www.lepp.cornell.edu/rsrc/Home/NewsAndEvents/JournalClub/WinterSpring2011/TalkJC20110312_Jawahery.pdf
+        location: Cornell University
+        note: On the occasion of celebration of David Cassel's contributions to research and teaching
+        date: 2011-03-12
+      - title: "FPCP 2010: Experimental Highlights"
+        url: https://agenda.infn.it/getFile.py/access?contribId=65&resId=0&materialId=slides&confId=2635
+        location: Torino, Italy
+        note: Conference summary
+        date: 2010-05-29
+      - title: Physics Opportunities at a Super Flavor Factory in the LHC era
+        url: http://science.energy.gov/~/media/hep/pdf/files/pdfs/hepap_may_2009_jawahery_hepap_may21.pdf
+        meeting: Meeting of the US High Energy Physics Advisory Panel (HEPAP)
+        location: Washington, D.C.
+        date: 2009-05-21
+      - title: "Moriond EW 2009: Experimental Summary & Highlights"
+        url: http://flavor.physics.umd.edu/pdfs/Moriond-EW-Summary-jawahery.pdf
+        meeting: 44th Rencontres de Moriond, EW
+        location: La Thuile, Italy
+        date: 2009-03-14
+      - title: CP violating phases $\alpha$ and $\gamma$
+        url: http://conferences.fnal.gov/lp2003/program/S5/jawahery_s05.pdf
+        meeting: Lepton-Photon Symposium, Fermi National Accelerator Laboratory
+        location: Batavia, IL
+        note: Rapporteur talk
+        date: 2003-08-12
 
 - section: Brian Hamilton
   talks:
