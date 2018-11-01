@@ -34,13 +34,18 @@
         email: syp@umd.edu
         address: 3101 Physical Sciences Complex
 
-- section: Past members
+- section: Former members
   members:
-      - name: Douglas Roberts
-        title: Associate Professor
       - name: Robert Bard
         title: Electrical Engineer
-      - name: Jack Wimberley
-        title: PhD, graduated
+      - name: Douglas Roberts
+        title: Associate Professor
+
+- section: Former graduate students
+  members:
       - name: Jason Andrews
-        title: PhD, graduated
+        title: PhD
+      - name: Jack Wimberley
+        title: PhD
+      - name: Brian Hamilton
+        title: PhD. Postdoc at UMD
