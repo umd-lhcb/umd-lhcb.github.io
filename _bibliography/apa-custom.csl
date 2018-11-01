@@ -147,7 +147,7 @@
           <if variable="DOI">
             <text variable="DOI" match="any"
                   prefix="&lt;a href=&#34;https://doi.org/"
-                  suffix="&#34;&gt;&lt;span style=&#34;font-variant:small-caps;&#34;&gt;doi&lt;/span&gt;&lt;/a&gt;"/>
+                  suffix="&#34;&gt;&lt;span style=&#34;font-variant:small-caps;&#34;&gt;doi&lt;/span&gt;&lt;/a&gt;."/>
           </if>
           <else>
             <choose>
@@ -158,14 +158,18 @@
                     <date variable="accessed" form="text" suffix=", "/>
                   </group>
                   <text term="from"/>
-                  <text variable="URL"/>
+                  <text variable="URL"
+                        prefix="&lt;a href=&#34;"
+                        suffix="&#34;&gt;&lt;span style=&#34;font-variant:small-caps;&#34;&gt;url&lt;/span&gt;&lt;/a&gt;."/>
                 </group>
               </if>
               <else>
                 <group>
                   <text term="retrieved" text-case="capitalize-first" suffix=" "/>
                   <text term="from" suffix=" "/>
-                  <text variable="URL"/>
+                  <text variable="URL"
+                        prefix="&lt;a href=&#34;"
+                        suffix="&#34;&gt;&lt;span style=&#34;font-variant:small-caps;&#34;&gt;url&lt;/span&gt;&lt;/a&gt;."/>
                 </group>
               </else>
             </choose>
