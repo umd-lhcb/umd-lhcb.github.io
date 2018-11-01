@@ -16,14 +16,15 @@ the BaBar experiment at SLAC (1993-present) and the LHCb experiment at the
 Large Hadron Collider (LHC) at CERN (2012-present).
 
 Currently, our research focuses on the following areas:
-* **CP violation** measurements such as studies of $B^+ \to K^+\pi^0$ and $B^0 \to {K_S} ^0\pi^0$ decays
-  that could help explain why our universe has so much more matter than anti-matter.
 * Tests of **lepton flavor universality**, a fundamental assumption within the
   SM that states that the interactions of all charged leptons (electrons,
   muons, and taus) differ only because of their different masses.  Currently,
   [semitauonic $B$ decays](https://doi.org/10.1038/nature22346) such as $B \to D^{(*)}\tau\nu_\tau$ present a
   deviation with respect to the SM predictions that is significant at the 3.8σ
   level, eliciting great interest in the particle physics community.
+* **CP violation** measurements that may help explain why our universe has so much more matter than anti-matter.
+  Currently focusing on $B^+ \to K^+\pi^0$ and $B^0 \to {K_S} ^0\pi^0$ decays, which could also help resolve
+  the so-called $K\pi$ puzzle.
 * The **readout electronics** for the new Upstream Tracker detector to be
   installed into LHCb during 2019 and 2020.
 
