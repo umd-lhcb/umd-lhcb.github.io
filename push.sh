@@ -13,7 +13,7 @@ commit_website_files() {
   git fetch origin
   git checkout -b master origin/master
   # Now we copy generated files to current working tree
-  cp -r ./_site/*
+  cp -r ./_site/* .
   # Finally we should be able to commit
   git add index.html
   git add assets
