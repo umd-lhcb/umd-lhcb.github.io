@@ -10,11 +10,64 @@
         meeting: Symposium and Memorial Concert for Val Fitch
         location: Princeton University
         date: 2015-05-15
+      - title: Summary and Outlook
+        url: https://indico.cern.ch/event/308116/session/15/contribution/62/attachments/588014/809264/Beauty-2014-summary.pdf
+        meeting: 15th International Conference on $B$-Physics at Frontier Machines
+        location: Edinburgh, Scotland
+        date: 2014-07-18
+      - title: "Super Flavor Experiments: Belle-II and LHCb Upgrade"
+        url: https://indico.bnl.gov/getFile.py/access?contribId=0&sessionId=13&resId=0&materialId=slides&confId=680
+        meeting: P5 Workshop on the Future of High Energy Physics
+        location: Brookhaven National Laboratory
+        date: 2013-12-17
+      - title: "The LHCb Experiment: Highlight of Physics Impact and Upgrade Plans"
+        url: https://indico.fnal.gov/getFile.py/access?contribId=447&sessionId=56&resId=0&materialId=slides&confId=6890
+        meeting: Snowmass on the Mississippi
+        location: Minneapolis, MN
+        date: 2013-07-31
 
 - section: Brian Hamilton
   talks:
+      - title: Recent Results in Semileptonic $B$ Decays with BABAR
+        url: https://indico.cern.ch/event/129980/session/16/contribution/21/attachments/90374/129331/Hamilton-DPF-2011-v2.pdf
+        meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
+        location: Providence, RI
+        note: Plenary talk
+        date: 2011-08-09
+      - title: Semileptonic Decays at LHCb
+        url: https://cds.cern.ch/record/1742210/files/LHCb-TALK-2014-168.pdf
+        meeting: ICHEP 2014
+        location: Valencia, Spain
+        date: 2014-06-05
+      - title: Semileptonic Decays at LHCb
+        url: https://cds.cern.ch/record/2023696/files/LHCb-TALK-2015-128.pdf
+        meeting: 27th Rencontres de Blois 2015
+        location: Chateau Royal de Blois, France
+        date: 2015-07-02
       - title: Experimental Overview of Lepton Nonuniversality Results and Prospects from $B$ Physics
         url: https://cds.cern.ch/record/2043834/files/LHCb-TALK-2015-216.pdf
         meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2015)
         location: Ann Arbor, MI
+        note: Plenary talk
         date: 2015-08-07
+
+- section: Jack Wimberley
+  talks:
+      - title: CP violation in $B$ and $B_S$ decays
+        url: https://cds.cern.ch/record/2014751/files/LHCb-TALK-2015-086.pdf
+        meeting: Phenomenology 2015 Symposium
+        location: Pittsburgh, PA
+        date: 2015-05-05
+
+- section: Jason Andrews
+  talks:
+      - title: Study of the decay $B^+ \to K^+\pi^0$
+        url: https://cds.cern.ch/record/2002652/files/LHCb-TALK-2015-045.pdf
+        meeting: 50th Rencontres de Moriond, EW
+        location: La Thuile, Italy
+        date: 2015-03-20
+      - title: Upgrade of the Upstream Tracker at LHCb
+        url: https://cds.cern.ch/record/2013250/files/LHCb-TALK-2015-081.pdf
+        meeting: APS April Meeting 2015
+        location: Baltimore, MD
+        date: 2015-04-11

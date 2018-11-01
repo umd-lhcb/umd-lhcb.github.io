@@ -22,6 +22,11 @@ title: Talks
                   <div class="col-12">
                     <a href="{{ talk.url }}" class="font-weight-bold">{{ talk.title }}</a>
                   </div>
+                  {% if talk.note %}
+                  <div class="col-12">
+                    <div class="font-weight-normal">{{ talk.note }}</div>
+                  </div>
+                  {% endif %}
                   {% if talk.meeting %}
                   <div class="col-12">
                     <div class="font-weight-normal">{{ talk.meeting }}</div>
