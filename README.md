@@ -32,9 +32,6 @@ Edit `_data/people.yml`. Note that `name` and `title` fields are mandatary.
 Edit the `_bibliography/papers.bib`. This is a regular LaTeX bib file. Note
 that all curly brackets `{}` should be removed and replaced with `""`.
 
-### Editing "Software"
-Edit `_data/software.yml`. Note that `url` and `descr` are mandatary.
-
 ### Editing "Talks"
 Edit `_data/talks.yml`. Note that `title`, `url`, and `date` are mandatary.
 `date` should be in the following format: `YYYY-MM-DD` (ISO standard). Talks
@@ -43,6 +40,9 @@ are sorted based on `date`, with latest one ranking first.
 If the talk file is not hosted anywhere else, put the talk insdie `talks`
 folder, and reference the talk with `/talks/<file_name>`. The talk file should
 also be checked into this git repo.
+
+### Editing "Software"
+Edit `_data/software.yml`. Note that `url` and `descr` are mandatary.
 
 After committing, push your changes to remote `build` branch:
 ```
