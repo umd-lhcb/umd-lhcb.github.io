@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LHCb group at the University of Maryland
+title: UMD flavor physics and CP violation group
 ---
 
 Our research group, led by Professors Jawahery and Franco Sevilla, is engaged
