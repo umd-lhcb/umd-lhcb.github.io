@@ -31,6 +31,8 @@ navigation:
       url: /pages/people.html
     - title: Papers
       url: /pages/papers.html
+    - title: Talks
+      url: /pages/talks.html
     - title: Software
       url: /pages/software.html
 

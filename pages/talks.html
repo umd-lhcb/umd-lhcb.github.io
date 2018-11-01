@@ -1,0 +1,50 @@
+---
+title: Talks
+---
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include header.html %}
+
+  <body>
+    {% include navbar.html %}
+    {% include title.html title=page.title %}
+
+    <div class="container">
+      <div class="bg-light">
+        <section id="main_content" class="p-4">
+          {% for section in site.data.talks %}
+            <h1>{{ section.section }}</h1>
+            <div class="row">
+            {% for talk in section.talks %}
+              <div class="col-12 col-md-4 mb-4">
+                <div class="row">
+                  <div class="col-12">
+                    <a href="{{ talk.url }}" class="font-weight-bold">{{ talk.title }}</a>
+                  </div>
+                  {% if talk.meeting %}
+                  <div class="col-12">
+                    <div class="font-weight-normal">{{ talk.meeting }}</div>
+                  </div>
+                  {% endif %}
+                  {% if talk.location %}
+                  <div class="col-12">
+                    <div class="font-weight-normal text-secondary">{{ talk.location }}</div>
+                  </div>
+                  {% endif %}
+                  {% if talk.date %}
+                  <div class="col-12">
+                    <div class="font-weight-normal text-secondary">{{ talk.date }}</div>
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+          {% endfor %}
+        </section>
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>
