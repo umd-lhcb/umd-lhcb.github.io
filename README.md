@@ -27,6 +27,7 @@ we ensure that we use the exact version that is needed. This module provides
 predefined CSS styles that will work on a variety of browsers and screen
 resolutions.
 ```
+git submodule init
 git submodule update
 ```
 
