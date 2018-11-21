@@ -33,6 +33,9 @@
         title: Graduate Student
         email: syp@umd.edu
         address: 3101 Physical Sciences Complex
+  photo:
+      file: photos/group_members.jpg
+      caption: From left to right: Tom O'Bannon, Hassan Jawahery, Will Parker, Zishuo Yang, Yipeng Sun, Manuel Franco Sevilla, Brian Hamilton
 
 - section: Former members
   members:

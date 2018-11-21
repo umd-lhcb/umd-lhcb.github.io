@@ -43,6 +43,9 @@ title: People
               </div>
             {% endfor %}
           </div>
+          {% if section.photo %}
+            {% include figure.html file=section.photo.file alt="Photo" caption=section.photo.caption %}
+          {% endif %}
           {% endfor %}
         </section>
       </div>
