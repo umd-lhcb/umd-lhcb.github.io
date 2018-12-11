@@ -36,7 +36,7 @@ You are now ready to build the website! Just type:
 jekyll serve
 ```
 This will build and launch a test web server. Open the website in your browser
-at [http://127.0.0.1:4000] to view the website.
+at http://127.0.0.1:4000 to view the website.
 
 If you just want to build, type in:
 ```
