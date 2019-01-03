@@ -116,3 +116,11 @@
         meeting: APS April Meeting 2015
         location: Baltimore, MD
         date: 2015-04-11
+
+- section: Zishuo Yang
+  talks:
+      - title: LHCb Upstream Tracker upgrade and its off-detector electronics
+        url: /talks/20181026-yang.pdf
+        meeting: US LHC Users Association Meeting
+        location: Batavia, IL
+        date: 2018-10-26
