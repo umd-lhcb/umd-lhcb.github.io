@@ -17,7 +17,7 @@ gem install bundler
 ```
 
 Now it's time to install `jekyll` and all its dependencies. Go to the root
-directory of this project (you should see a 'Gemfile' here):
+directory of this project (you should see a `Gemfile` here):
 ```
 bundle install
 ```
