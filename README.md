@@ -15,7 +15,7 @@ git fetch origin
 git checkout -b build origin/build
 ```
 
-**Waring**: It is strongly recommended that 4-space, instead of tab, is used as
+**Warning**: It is strongly recommended that 4-space, instead of tab, is used as
 indentation.
 
 ### Editing "Home"
