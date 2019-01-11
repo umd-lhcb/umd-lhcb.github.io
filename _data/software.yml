@@ -1,9 +1,6 @@
 - url: https://github.com/ZishuoYang/UT-Backplane-mapping
   descr: Altium auxiliary netlists for PigTail and DCB
   has_release: true
-- url: https://github.com/yipengsun/gbtx_communication_doc
-  descr: GBTx daughter board and DCB user-friendly manual
-  has_release: true
 - url: https://github.com/umd-lhcb/docker-images
   descr: Dockers for LHCb data analysis
 - url: https://github.com/umd-lhcb/umd-lhcb.github.io
