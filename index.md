@@ -26,11 +26,12 @@ Currently, our research focuses on the following areas:
   Currently focusing on $B^+ \to K^+\pi^0$ and $B^0 \to {K_S} ^0\pi^0$ decays, which could also help resolve
   the so-called $K\pi$ puzzle.
 * The **readout electronics** for the new Upstream Tracker detector to be
-  installed into LHCb during 2019 and 2020.
+  installed into LHCb during 2019 and 2020. This upgraded detector will start
+  to collect run-3 data scheduled at 2021.
 
 {% include figure.html file="lhcb_detector_3d.jpg"
                        alt="LHCb detector"
-                       caption="A 3D rendering of current (2018) LHCb detector."
+                       caption="A 3D rendering of run-1 and run-2 LHCb detector."
 %}
 
 If you are interested in learning more about what we do, just email us at [lhcb@physics.umd.edu](mailto:lhcb@physics.umd.edu)
