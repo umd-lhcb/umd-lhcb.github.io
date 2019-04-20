@@ -13,10 +13,6 @@
         title: Group Secretary
         email: smegonig@umd.edu
         address: 3208 Physical Sciences Complex
-      - name: Thomas O'Bannon
-        title: Electrical Engineer
-        email: tobannon@umd.edu
-        address: 3208E Physical Sciences Complex
       - name: Brian Hamilton
         title: Postdoc
         email: bkham@umd.edu
@@ -39,6 +35,8 @@
 
 - section: Former members
   members:
+      - name: Thomas O'Bannon
+        title: Electrical Engineer
       - name: Robert Bard$^\dagger$
         title: Electrical Engineer
       - name: Douglas Roberts
