@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
-    autoprefixer-rails (9.6.0)
+    autoprefixer-rails (9.6.1)
       execjs
     bibtex-ruby (4.4.7)
       latex-decode (~> 0.0)
@@ -125,4 +125,4 @@ DEPENDENCIES
   mini_racer
 
 BUNDLED WITH
-   1.16.2
+   2.0.2
