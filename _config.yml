@@ -33,8 +33,6 @@ navigation:
       url: /pages/papers.html
     - title: Talks
       url: /pages/talks.html
-    - title: Software
-      url: /pages/software.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
