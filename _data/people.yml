@@ -13,9 +13,9 @@
         title: Group Secretary
         email: smegonig@umd.edu
         address: 3208 Physical Sciences Complex
-      - name: Brian Hamilton
+      - name: Phoebe Hamilton
         title: Postdoc
-        email: bkham@umd.edu
+        email: pmham@umd.edu
         address: 3105 Physical Sciences Complex
       - name: William Parker
         title: Postdoc
@@ -30,8 +30,8 @@
         email: syp@umd.edu
         address: 3101 Physical Sciences Complex
   photo:
-      file: photos/group_members.jpg
-      caption: "From left to right: Tom O'Bannon, Hassan Jawahery, Will Parker, Zishuo Yang, Yipeng Sun, Manuel Franco Sevilla, Brian Hamilton"
+      file: photos/group_members-191210.jpg
+      caption: "From left to right: Phoebe Hamilton, Will Parker, Hassan Jawahery, Yipeng Sun, Manuel Franco Sevilla, Zishuo Yang."
 
 - section: Former members
   members:
@@ -48,7 +48,7 @@
         title: PhD
       - name: Jack Wimberley
         title: Software Engineer at Akamai
-      - name: Brian Hamilton
+      - name: Phoebe Hamilton
         title: PhD. Postdoc at UMD
       - name: Riccardo Cenci
         title: Research Associate at INFN Sezione di Pisa, Italy
