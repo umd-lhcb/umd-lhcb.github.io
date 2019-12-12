@@ -10,6 +10,7 @@ Licensed under `CC0-1.0`.
 
 If you want to build this website locally, please refer to `README.local.md`.
 
+
 ## Change contents without locally install any `ruby` program
 As said before, all the actual contents are under `build` branch.  To check it
 out:
@@ -50,16 +51,6 @@ If the talk file is not hosted anywhere else, put the talk inside `talks`
 folder, and reference the talk with `/talks/<file_name>`. The talk file should
 also be checked into this git repo.
 
-### Editing "Software"
-Edit `_data/software.yml`. Note that `url` and `descr` are mandatory.
-
-After committing, push your changes to remote `build` branch:
-```
-git push origin build
-```
-
-Wait for a couple of seconds (~120s) as the Travis CI server automatically
-builds the page for you.
 
 ## Acknowledgement
 We used [bedford.io](https://bedford.io) as a layout reference. Also, we
