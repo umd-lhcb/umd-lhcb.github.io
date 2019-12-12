@@ -12,11 +12,11 @@
       {% assign links = site.navigation %}
       {% for link in links %}
         {% if link.url == '/index.html' and page.url == '/' %}
-          <a class="nav-item nav-link active font-weight-bold" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}<span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link active font-weight-bold" href="{{ link.url }}">{{ link.title }}<span class="sr-only">(current)</span></a>
         {% elsif page.url contains link.url %}
-          <a class="nav-item nav-link active font-weight-bold" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}<span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link active font-weight-bold" href="{{ link.url }}">{{ link.title }}<span class="sr-only">(current)</span></a>
         {% else %}
-          <a class="nav-item nav-link font-weight-bold {{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+          <a class="nav-item nav-link font-weight-bold {{ class }}" href="{{ link.url }}">{{ link.title }}</a>
         {% endif %}
       {% endfor %}
     </div>
