@@ -10,7 +10,6 @@ sass:
 
 plugins:
     - jekyll-autoprefixer
-    - jekyll-tidy
     - jekyll-scholar
 
 jekyll_tidy:
@@ -35,8 +34,6 @@ navigation:
       url: /pages/talks.html
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
     - Gemfile
     - Gemfile.lock
