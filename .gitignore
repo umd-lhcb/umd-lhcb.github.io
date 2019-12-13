@@ -1,7 +1,9 @@
 _site
-_sass
-.sass-cache
+
 .jekyll-metadata
+.jekyll-cache
+.sass-cache
+
 *.txt
 .ruby-version
 .ruby-gemset
