@@ -10,4 +10,7 @@ group :jekyll_plugins do
 
   # Bibliography
   gem 'jekyll-scholar'
+
+  # Minify generated html
+  gem 'octopress-minify-html'
 end

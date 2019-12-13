@@ -3,6 +3,8 @@ title: UMD flavor physics and CP violation group
 markdown: kramdown
 repository: umd-lhcb/umd-lhcb.github.io
 
+minify_html: true
+
 # Minify generated CSS
 sass:
     sass_dir: _sass
