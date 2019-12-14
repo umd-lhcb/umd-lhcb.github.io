@@ -47,6 +47,7 @@ exclude:
     - push.sh
     - README.md
     - README.local.md
+    - LICENSE.txt
     - assets/images/event_display_2d.jpg
     - assets/images/babar_logo.png
     - assets/images/physics_logo_final_white.png
