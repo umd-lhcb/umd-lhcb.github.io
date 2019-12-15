@@ -1,151 +1,173 @@
-- section: Hassan Jawahery
-  talks:
-      - title: Flavor physics highlights
-        url: /talks/20190926-jawahery-bnl.pdf
-        author: Hassan Jawahery
-        meeting: Brookhaven Forum 2019, Particle Physics and Cosmology in the 2020s
-        location: Upton, NY
-        date: 2019-09-26
-      - title: Physics at LHCb
-        url: /talks/20180508-jawahery-pheno.pdf
-        author: Hassan Jawahery
-        meeting: 2018 Phenomenology Symposium, University of Pittsburgh
-        location: Pittsburgh, OH
-        date: 2018-05-08
-      - title: Flavor in the HL-LHC era
-        url: /talks/20180404-jawahery-hl-lhc.pdf
-        author: Hassan Jawahery
-        meeting: HL/HE LHC Meeting, Fermi National Accelerator Laboratory
-        location: Batavia, IL
-        date: 2018-04-04
-      - title: Flavor physics today
-        url: https://portal.slac.stanford.edu/sites/conf_public/leith/presentations/Jawahery.pdf
-        meeting: Symposium in Honor of David Leith
-        location: SLAC National Accelerator Laboratory, Stanford
-        date: 2014-12-12
-      - title: CP Violation in the 21st Century
-        url: /talks/20150515-jawahery.pdf
-        meeting: Symposium and Memorial Concert for Val Fitch
-        location: Princeton University
-        date: 2015-05-15
-      - title: Summary and Outlook
-        url: https://indico.cern.ch/event/308116/session/15/contribution/62/attachments/588014/809264/Beauty-2014-summary.pdf
-        meeting: 15th International Conference on $B$-Physics at Frontier Machines
-        location: Edinburgh, Scotland
-        date: 2014-07-18
-      - title: "Super Flavor Experiments: Belle-II and LHCb Upgrade"
-        url: https://indico.bnl.gov/getFile.py/access?contribId=0&sessionId=13&resId=0&materialId=slides&confId=680
-        meeting: P5 Workshop on the Future of High Energy Physics
-        location: Brookhaven National Laboratory
-        date: 2013-12-17
-      - title: "The LHCb Experiment: Highlight of Physics Impact and Upgrade Plans"
-        url: https://indico.fnal.gov/getFile.py/access?contribId=447&sessionId=56&resId=0&materialId=slides&confId=6890
-        meeting: Snowmass on the Mississippi
-        location: Minneapolis, MN
-        date: 2013-07-31
-      - title: CP Violation
-        url: https://indico.cern.ch/event/129980/session/1/contribution/47/attachments/90653/129664/Jawahery-CPV-DFP2011.pdf
-        meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
-        location: Providence, RI
-        note: Plenary talk
-        date: 2011-08-13
-      - title: "CLEO's Impact: A view from the Inside and the Outside"
-        url: http://www.lepp.cornell.edu/rsrc/Home/NewsAndEvents/JournalClub/WinterSpring2011/TalkJC20110312_Jawahery.pdf
-        location: Cornell University
-        note: On the occasion of celebration of David Cassel's contributions to research and teaching
-        date: 2011-03-12
-      - title: "FPCP 2010: Experimental Highlights"
-        url: https://agenda.infn.it/getFile.py/access?contribId=65&resId=0&materialId=slides&confId=2635
-        location: Torino, Italy
-        note: Conference summary
-        date: 2010-05-29
-      - title: Physics Opportunities at a Super Flavor Factory in the LHC era
-        url: http://science.energy.gov/~/media/hep/pdf/files/pdfs/hepap_may_2009_jawahery_hepap_may21.pdf
-        meeting: Meeting of the US High Energy Physics Advisory Panel (HEPAP)
-        location: Washington, D.C.
-        date: 2009-05-21
-      - title: "Moriond EW 2009: Experimental Summary & Highlights"
-        url: http://flavor.physics.umd.edu/pdfs/Moriond-EW-Summary-jawahery.pdf
-        meeting: 44th Rencontres de Moriond, EW
-        location: La Thuile, Italy
-        date: 2009-03-14
-      - title: CP violating phases $\alpha$ and $\gamma$
-        url: http://conferences.fnal.gov/lp2003/program/S5/jawahery_s05.pdf
-        meeting: Lepton-Photon Symposium, Fermi National Accelerator Laboratory
-        location: Batavia, IL
-        note: Rapporteur talk
-        date: 2003-08-12
+# Hassan Jawahery
+- title: Flavor physics highlights
+  url: /talks/20190926-jawahery-bnl.pdf
+  author: Hassan Jawahery
+  meeting: Brookhaven Forum 2019, Particle Physics and Cosmology in the 2020s
+  location: Upton, NY
+  date: 2019-09-26
+- title: Physics at LHCb
+  url: /talks/20180508-jawahery-pheno.pdf
+  author: Hassan Jawahery
+  meeting: 2018 Phenomenology Symposium, University of Pittsburgh
+  location: Pittsburgh, OH
+  date: 2018-05-08
+- title: Flavor in the HL-LHC era
+  url: /talks/20180404-jawahery-hl-lhc.pdf
+  author: Hassan Jawahery
+  meeting: HL/HE LHC Meeting, Fermi National Accelerator Laboratory
+  location: Batavia, IL
+  date: 2018-04-04
+- title: Flavor physics today
+  url: https://portal.slac.stanford.edu/sites/conf_public/leith/presentations/Jawahery.pdf
+  author: Hassan Jawahery
+  meeting: Symposium in Honor of David Leith
+  location: SLAC National Accelerator Laboratory, Stanford
+  date: 2014-12-12
+- title: CP Violation in the 21st Century
+  url: /talks/20150515-jawahery.pdf
+  author: Hassan Jawahery
+  meeting: Symposium and Memorial Concert for Val Fitch
+  location: Princeton University
+  date: 2015-05-15
+- title: Summary and Outlook
+  url: https://indico.cern.ch/event/308116/session/15/contribution/62/attachments/588014/809264/Beauty-2014-summary.pdf
+  author: Hassan Jawahery
+  meeting: 15th International Conference on $B$-Physics at Frontier Machines
+  location: Edinburgh, Scotland
+  date: 2014-07-18
+- title: "Super Flavor Experiments: Belle-II and LHCb Upgrade"
+  url: https://indico.bnl.gov/getFile.py/access?contribId=0&sessionId=13&resId=0&materialId=slides&confId=680
+  author: Hassan Jawahery
+  meeting: P5 Workshop on the Future of High Energy Physics
+  location: Brookhaven National Laboratory
+  date: 2013-12-17
+- title: "The LHCb Experiment: Highlight of Physics Impact and Upgrade Plans"
+  url: https://indico.fnal.gov/getFile.py/access?contribId=447&sessionId=56&resId=0&materialId=slides&confId=6890
+  author: Hassan Jawahery
+  meeting: Snowmass on the Mississippi
+  location: Minneapolis, MN
+  date: 2013-07-31
+- title: CP Violation
+  url: https://indico.cern.ch/event/129980/session/1/contribution/47/attachments/90653/129664/Jawahery-CPV-DFP2011.pdf
+  author: Hassan Jawahery
+  meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
+  location: Providence, RI
+  note: Plenary talk
+  date: 2011-08-13
+- title: "CLEO's Impact: A view from the Inside and the Outside"
+  url: http://www.lepp.cornell.edu/rsrc/Home/NewsAndEvents/JournalClub/WinterSpring2011/TalkJC20110312_Jawahery.pdf
+  author: Hassan Jawahery
+  location: Cornell University
+  note: On the occasion of celebration of David Cassel's contributions to research and teaching
+  date: 2011-03-12
+- title: "FPCP 2010: Experimental Highlights"
+  url: https://agenda.infn.it/getFile.py/access?contribId=65&resId=0&materialId=slides&confId=2635
+  author: Hassan Jawahery
+  location: Torino, Italy
+  note: Conference summary
+  date: 2010-05-29
+- title: Physics Opportunities at a Super Flavor Factory in the LHC era
+  url: http://science.energy.gov/~/media/hep/pdf/files/pdfs/hepap_may_2009_jawahery_hepap_may21.pdf
+  author: Hassan Jawahery
+  meeting: Meeting of the US High Energy Physics Advisory Panel (HEPAP)
+  location: Washington, D.C.
+  date: 2009-05-21
+- title: "Moriond EW 2009: Experimental Summary & Highlights"
+  url: http://flavor.physics.umd.edu/pdfs/Moriond-EW-Summary-jawahery.pdf
+  author: Hassan Jawahery
+  meeting: 44th Rencontres de Moriond, EW
+  location: La Thuile, Italy
+  date: 2009-03-14
+- title: CP violating phases $\alpha$ and $\gamma$
+  url: http://conferences.fnal.gov/lp2003/program/S5/jawahery_s05.pdf
+  author: Hassan Jawahery
+  meeting: Lepton-Photon Symposium, Fermi National Accelerator Laboratory
+  location: Batavia, IL
+  note: Rapporteur talk
+  date: 2003-08-12
 
-- section: Manuel Franco Sevilla
-  talks:
-      - title: LHCb upgrades I and II
-        url: https://indico.cern.ch/event/782953/contributions/3441657/attachments/1888344/3113546/19-07-31_manuelf_lhcb_upgrades_dpf.pdf
-        author: Manuel Franco Sevilla
-        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
-        location: Boston, MA
-        date: 2019-07-31
+# Manuel Franco Sevilla
+- title: LHCb upgrades I and II
+  url: https://indico.cern.ch/event/782953/contributions/3441657/attachments/1888344/3113546/19-07-31_manuelf_lhcb_upgrades_dpf.pdf
+  author: Manuel Franco Sevilla
+  meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
+  location: Boston, MA
+  date: 2019-07-31
 
-- section: Phoebe Hamilton
-  talks:
-      - title: Results on Lepton Flavor Universality Tests at LHCb
-        url: https://indico.cern.ch/event/782953/contributions/3441656/attachments/1888289/3113418/Hamilton-DPFtalk.pdf
-        author: Phoebe Hamilton
-        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
-        location: Boston, MA
-        date: 2019-07-30
-      - title: Recent Results in Semileptonic $B$ Decays with BABAR
-        url: https://indico.cern.ch/event/129980/session/16/contribution/21/attachments/90374/129331/Hamilton-DPF-2011-v2.pdf
-        meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
-        location: Providence, RI
-        note: Plenary talk
-        date: 2011-08-09
-      - title: Semileptonic Decays at LHCb
-        url: https://cds.cern.ch/record/1742210/files/LHCb-TALK-2014-168.pdf
-        meeting: ICHEP 2014
-        location: Valencia, Spain
-        date: 2014-06-05
-      - title: Semileptonic Decays at LHCb
-        url: https://cds.cern.ch/record/2023696/files/LHCb-TALK-2015-128.pdf
-        meeting: 27th Rencontres de Blois 2015
-        location: Chateau Royal de Blois, France
-        date: 2015-07-02
-      - title: Experimental Overview of Lepton Nonuniversality Results and Prospects from $B$ Physics
-        url: https://cds.cern.ch/record/2043834/files/LHCb-TALK-2015-216.pdf
-        meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2015)
-        location: Ann Arbor, MI
-        note: Plenary talk
-        date: 2015-08-07
+# Phoebe Hamilton
+- title: Results on Lepton Flavor Universality Tests at LHCb
+  url: https://indico.cern.ch/event/782953/contributions/3441656/attachments/1888289/3113418/Hamilton-DPFtalk.pdf
+  author: Phoebe Hamilton
+  meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
+  location: Boston, MA
+  date: 2019-07-30
+- title: Recent Results in Semileptonic $B$ Decays with BABAR
+  url: https://indico.cern.ch/event/129980/session/16/contribution/21/attachments/90374/129331/Hamilton-DPF-2011-v2.pdf
+  author: Phoebe Hamilton
+  meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
+  location: Providence, RI
+  note: Plenary talk
+  date: 2011-08-09
+- title: Semileptonic Decays at LHCb
+  url: https://cds.cern.ch/record/1742210/files/LHCb-TALK-2014-168.pdf
+  author: Phoebe Hamilton
+  meeting: ICHEP 2014
+  location: Valencia, Spain
+  date: 2014-06-05
+- title: Semileptonic Decays at LHCb
+  url: https://cds.cern.ch/record/2023696/files/LHCb-TALK-2015-128.pdf
+  author: Phoebe Hamilton
+  meeting: 27th Rencontres de Blois 2015
+  location: Chateau Royal de Blois, France
+  date: 2015-07-02
+- title: Experimental Overview of Lepton Nonuniversality Results and Prospects from $B$ Physics
+  url: https://cds.cern.ch/record/2043834/files/LHCb-TALK-2015-216.pdf
+  author: Phoebe Hamilton
+  meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2015)
+  location: Ann Arbor, MI
+  note: Plenary talk
+  date: 2015-08-07
 
-- section: Will Parker
-  talks:
-      - title: The LHCb Upstream Tracker for Phase I upgrade
-        url: https://indico.cern.ch/event/452781/contributions/2297533/attachments/1343398/2024078/UT_Overview_WCP_092716.pdf
-        meeting: Vertex 2016
-        location: La Biodola, Isola d'Elba, Italy
-        date: 2016-09-07
-      - title: The Upstream Tracker Upgrade Project
-        url: https://indico.cern.ch/event/561618/contributions/2354440/attachments/1366002/2069280/UT_Overview_short_WCP_11_04_16.pdf
-        meeting: 2016 Annual US LHC Users Association Meeting
-        location: LBNL, Berkeley, CA
-        date: 2016-11-04
+# Will Parker
+- title: The LHCb Upstream Tracker for Phase I upgrade
+  url: https://indico.cern.ch/event/452781/contributions/2297533/attachments/1343398/2024078/UT_Overview_WCP_092716.pdf
+  author: Will Parker
+  meeting: Vertex 2016
+  location: La Biodola, Isola d'Elba, Italy
+  date: 2016-09-07
+- title: The Upstream Tracker Upgrade Project
+  url: https://indico.cern.ch/event/561618/contributions/2354440/attachments/1366002/2069280/UT_Overview_short_WCP_11_04_16.pdf
+  author: Will Parker
+  meeting: 2016 Annual US LHC Users Association Meeting
+  location: LBNL, Berkeley, CA
+  date: 2016-11-04
 
-- section: Jack Wimberley
-  talks:
-      - title: CP violation in $B$ and $B_s$ decays
-        url: https://cds.cern.ch/record/2014751/files/LHCb-TALK-2015-086.pdf
-        meeting: Phenomenology 2015 Symposium
-        location: Pittsburgh, PA
-        date: 2015-05-05
+# Jack Wimberley
+- title: CP violation in $B$ and $B_s$ decays
+  url: https://cds.cern.ch/record/2014751/files/LHCb-TALK-2015-086.pdf
+  author: Jack Wimberley
+  meeting: Phenomenology 2015 Symposium
+  location: Pittsburgh, PA
+  date: 2015-05-05
 
-- section: Jason Andrews
-  talks:
-      - title: Study of the decay $B^+ \to K^+\pi^0$
-        url: https://cds.cern.ch/record/2002652/files/LHCb-TALK-2015-045.pdf
-        meeting: 50th Rencontres de Moriond, EW
-        location: La Thuile, Italy
-        date: 2015-03-20
-      - title: Upgrade of the Upstream Tracker at LHCb
-        url: https://cds.cern.ch/record/2013250/files/LHCb-TALK-2015-081.pdf
-        meeting: APS April Meeting 2015
-        location: Baltimore, MD
-        date: 2015-04-11
+# Jason Andrews
+- title: Study of the decay $B^+ \to K^+\pi^0$
+  url: https://cds.cern.ch/record/2002652/files/LHCb-TALK-2015-045.pdf
+  author: Jason Andrews
+  meeting: 50th Rencontres de Moriond, EW
+  location: La Thuile, Italy
+  date: 2015-03-20
+- title: Upgrade of the Upstream Tracker at LHCb
+  url: https://cds.cern.ch/record/2013250/files/LHCb-TALK-2015-081.pdf
+  author: Jason Andrews
+  meeting: APS April Meeting 2015
+  location: Baltimore, MD
+  date: 2015-04-11
+
+# Zishuo Yang
+- title: LHCb Upstream Tracker upgrade and its off-detector electronics
+  url: /talks/20181026-yang.pdf
+  author: Zishuo Yang
+  meeting: US LHC Users Association Meeting
+  location: Batavia, IL
+  date: 2018-10-26
