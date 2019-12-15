@@ -1,44 +1,23 @@
-- section: Recent talks
+- section: Hassan Jawahery
   talks:
-      - title: Flavor in the HL-LHC era
-        url: /talks/20180404-jawahery-hl-lhc.pdf
-        author: Hassan Jawahery
-        meeting: HL/HE LHC Meeting, Fermi National Accelerator Laboratory
-        location: Batavia, IL
-        date: 2018-04-04
-      - title: Physics at LHCb
-        url: /talks/20180508-jawahery-pheno.pdf
-        author: Hassan Jawahery
-        meeting: 2018 Phenomenology Symposium, University of Pittsburgh
-        location: Pittsburgh, OH
-        date: 2018-05-08
       - title: Flavor physics highlights
         url: /talks/20190926-jawahery-bnl.pdf
         author: Hassan Jawahery
         meeting: Brookhaven Forum 2019, Particle Physics and Cosmology in the 2020s
         location: Upton, NY
         date: 2019-09-26
-      - title: LHCb upgrades I and II
-        url: https://indico.cern.ch/event/782953/contributions/3441657/attachments/1888344/3113546/19-07-31_manuelf_lhcb_upgrades_dpf.pdf
-        author: Manuel Franco Sevilla
-        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
-        location: Boston, MA
-        date: 2019-07-31
-      - title: Results on Lepton Flavor Universality Tests at LHCb
-        url: https://indico.cern.ch/event/782953/contributions/3441656/attachments/1888289/3113418/Hamilton-DPFtalk.pdf
-        author: Phoebe Hamilton
-        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
-        location: Boston, MA
-        date: 2019-07-30
-      - title: LHCb Upstream Tracker upgrade and its off-detector electronics
-        url: /talks/20181026-yang.pdf
-        author: Zishuo Yang
-        meeting: US LHC Users Association Meeting
+      - title: Physics at LHCb
+        url: /talks/20180508-jawahery-pheno.pdf
+        author: Hassan Jawahery
+        meeting: 2018 Phenomenology Symposium, University of Pittsburgh
+        location: Pittsburgh, OH
+        date: 2018-05-08
+      - title: Flavor in the HL-LHC era
+        url: /talks/20180404-jawahery-hl-lhc.pdf
+        author: Hassan Jawahery
+        meeting: HL/HE LHC Meeting, Fermi National Accelerator Laboratory
         location: Batavia, IL
-        date: 2018-10-26
-
-- section: Hassan Jawahery
-  talks:
+        date: 2018-04-04
       - title: Flavor physics today
         url: https://portal.slac.stanford.edu/sites/conf_public/leith/presentations/Jawahery.pdf
         meeting: Symposium in Honor of David Leith
@@ -97,8 +76,23 @@
         note: Rapporteur talk
         date: 2003-08-12
 
+- section: Manuel Franco Sevilla
+  talks:
+      - title: LHCb upgrades I and II
+        url: https://indico.cern.ch/event/782953/contributions/3441657/attachments/1888344/3113546/19-07-31_manuelf_lhcb_upgrades_dpf.pdf
+        author: Manuel Franco Sevilla
+        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
+        location: Boston, MA
+        date: 2019-07-31
+
 - section: Phoebe Hamilton
   talks:
+      - title: Results on Lepton Flavor Universality Tests at LHCb
+        url: https://indico.cern.ch/event/782953/contributions/3441656/attachments/1888289/3113418/Hamilton-DPFtalk.pdf
+        author: Phoebe Hamilton
+        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
+        location: Boston, MA
+        date: 2019-07-30
       - title: Recent Results in Semileptonic $B$ Decays with BABAR
         url: https://indico.cern.ch/event/129980/session/16/contribution/21/attachments/90374/129331/Hamilton-DPF-2011-v2.pdf
         meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
@@ -155,4 +149,3 @@
         meeting: APS April Meeting 2015
         location: Baltimore, MD
         date: 2015-04-11
-
