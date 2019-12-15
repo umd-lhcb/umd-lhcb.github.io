@@ -1,3 +1,42 @@
+- section: Recent talks
+  talks:
+      - title: Flavor in the HL-LHC era
+        url: /talks/20180404-jawahery-hl-lhc.pdf
+        author: Hassan Jawahery
+        meeting: HL/HE LHC Meeting, Fermi National Accelerator Laboratory
+        location: Batavia, IL
+        date: 2018-04-04
+      - title: Physics at LHCb
+        url: /talks/20180508-jawahery-pheno.pdf
+        author: Hassan Jawahery
+        meeting: 2018 Phenomenology Symposium, University of Pittsburgh
+        location: Pittsburgh, OH
+        date: 2018-05-08
+      - title: Flavor physics highlights
+        url: /talks/20190926-jawahery-bnl.pdf
+        author: Hassan Jawahery
+        meeting: Brookhaven Forum 2019, Particle Physics and Cosmology in the 2020s
+        location: Upton, NY
+        date: 2019-09-26
+      - title: LHCb upgrades I and II
+        url: https://indico.cern.ch/event/782953/contributions/3441657/attachments/1888344/3113546/19-07-31_manuelf_lhcb_upgrades_dpf.pdf
+        author: Manuel Franco Sevilla
+        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
+        location: Boston, MA
+        date: 2019-07-31
+      - title: Results on Lepton Flavor Universality Tests at LHCb
+        url: https://indico.cern.ch/event/782953/contributions/3441656/attachments/1888289/3113418/Hamilton-DPFtalk.pdf
+        author: Phoebe Hamilton
+        meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
+        location: Boston, MA
+        date: 2019-07-30
+      - title: LHCb Upstream Tracker upgrade and its off-detector electronics
+        url: /talks/20181026-yang.pdf
+        author: Zishuo Yang
+        meeting: US LHC Users Association Meeting
+        location: Batavia, IL
+        date: 2018-10-26
+
 - section: Hassan Jawahery
   talks:
       - title: Flavor physics today
@@ -117,10 +156,3 @@
         location: Baltimore, MD
         date: 2015-04-11
 
-- section: Zishuo Yang
-  talks:
-      - title: LHCb Upstream Tracker upgrade and its off-detector electronics
-        url: /talks/20181026-yang.pdf
-        meeting: US LHC Users Association Meeting
-        location: Batavia, IL
-        date: 2018-10-26

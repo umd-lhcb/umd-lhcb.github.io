@@ -34,5 +34,5 @@ Currently, our research focuses on the following areas:
                        caption="A 3D rendering of run-1 and run-2 LHCb detector."
 %}
 
-If you are interested in learning more about what we do, just email us at [lhcb@physics.umd.edu](mailto:lhcb@physics.umd.edu)
-including some information about yourself.
+If you are interested in learning more about what we do, just email us at [jawahery@umd.edu](mailto:jawahery@umd.edu)
+or [manuelf@umd.edu](mailto:manuelf@umd.edu) and include some information about yourself.
