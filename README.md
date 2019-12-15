@@ -38,18 +38,25 @@ that all curly brackets `{}` should be removed and replaced with `""`.
 
 By default it configured to display only 20 most recent results, it can be
 changed by editing the following line in `pages/papers.md`:
-```
+```liquid
 {% bibliography --file papers --max 20 %}
 ```
 
 ### Editing "Talks"
-Edit `_data/talks.yml`. Note that `title`, `url`, and `date` are mandatory.
+Edit `_data/talks.yml`. Note that `title`, `url`, `author`, and `date` are
+mandatory.
 `date` should be in the following format: `YYYY-MM-DD` (ISO standard). Talks
 are sorted based on `date`, with latest one ranking first.
 
 If the talk file is not hosted anywhere else, put the talk inside `talks`
 folder, and reference the talk with `/talks/<file_name>`. The talk file should
 also be checked into this git repo.
+
+By default, the _Recent talks_ sections displays the 9 most recent talks. To
+change that, edit the following line in `pages/talks.html`:
+```liquid
+{% assign all_talks_sorted = site.data.talks | sort: "date" | reverse | slice: 0, 9 %}
+```
 
 
 ## Acknowledgement
