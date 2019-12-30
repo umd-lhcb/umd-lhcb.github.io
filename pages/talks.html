@@ -48,10 +48,12 @@ title: Talks
           {% endfor %}
           </div>
 
+          <h1>All talks sorted by author</h1>
+          <br>
           <!-- Talks by author -->
           {% assign authors = site.data.talks | map: "author" | uniq %}
           {% for author in authors %}
-            <h1>{{ author }}</h1>
+            <h3>{{ author }}</h3>
             <div class="row">
             {% assign author_talks_sorted = site.data.talks | where: "author", author | sort: "date" | reverse %}
             {% for talk in author_talks_sorted %}

@@ -1,0 +1,43 @@
+# UT boards
+- title: DCB
+  type: UT boards
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb.pdf
+    protected:
+  - title: Altium project
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-09-30_dcb_project.zip
+  - title: BOM
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-09-30_dcb_bom.xls
+  - title: Gerbers
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-09-30_dcb_gerber.zip
+    
+- title: DCB optical mezzanine
+  type: UT boards
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb_opt_mezz.pdf
+  - title: Altium project
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-10-02_dcb_opt_mezz_project.zip
+  - title: BOM
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-10-02_dcb_opt_mezz_bom.xls
+  - title: Gerbers
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-10-02_dcb_opt_mezz_gerber.zip
+    
+- title: DCB prototype
+  type: UT board prototypes
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb_prototype.pdf
+  - title: Altium project
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2018-07-09_dcb_prototype_project.zip
+
+- title: DCB optical mezzanine prototype
+  type: UT board prototypes
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb_opt_mezz_prototype.pdf
+  - title: Altium project
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2018-07-23_dcb_opt_mezz_prototype_project.zip
+    
+    

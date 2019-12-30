@@ -34,6 +34,8 @@ navigation:
       url: /pages/papers.html
     - title: Talks
       url: /pages/talks.html
+    - title: Group links
+      url: /pages/links.html
 
 # Exclude from processing.
 exclude:
