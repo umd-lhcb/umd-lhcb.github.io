@@ -1,5 +1,5 @@
 ---
-title: Group links
+title: UMD group links
 ---
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
@@ -13,9 +13,13 @@ title: Group links
       <div class="bg-light">
         <section id="main_content" class="p-4">
 
+          Links marked as (protected) may require logging in to your Github account.
+          <br><br>
+
           <!-- Links by type -->
           {% assign types = site.data.links | map: "type" | uniq %}
           {% for type in types %}
+            <hr>
             <h1>{{ type }}</h1>
             <div class="row">
             {% assign linksets = site.data.links | where: "type", type %}
@@ -23,12 +27,16 @@ title: Group links
               <div class="col-12 col-md-4 mb-4">
                 <div class="row">
                   <div class="col-12">
-                   <div class="font-weight-bold small-font-size">{{ linkset.title }}</div>
+                   <div class="font-weight-bold">{{ linkset.title }}</div>
                   </div>
                   <ul>
                   {% for link in linkset.links %}
                     <div class="col-12">
-                      <li> <a href="{{ link.url }}" class="font-weight-normal">{{ link.title }}</a></li>
+                      <li> <a href="{{ link.url }}" class="font-weight-normal">{{ link.title }}</a>
+                      {% if link.protected %}
+                      (protected)
+                      {% endif %}
+                      </li>
                     </div>
                   {% endfor %}
                   </ul>
