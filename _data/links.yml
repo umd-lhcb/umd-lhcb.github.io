@@ -1,6 +1,44 @@
-###### UT boards
+###### UT general
+- title: UMD lab
+  type: UT general
+  links:
+  - title: Lab log (lab-notes)
+    url: https://github.com/umd-lhcb/lab-notes/issues?utf8=%E2%9C%93&q=is%3Aissue
+    protected: Yes
+  - title: UMD boards database
+    url: https://docs.google.com/spreadsheets/d/1KjXGhOFzi0SZPsozpKzxGjVtfr4kkS_Hv5EigUwKOj8/edit?usp=sharing
+  - title: miniDAQ usage
+    url: https://umd-lhcb.github.io/ut-hw-doc/minidaq/minidaq_usage/
+  - title: nanoDAQ commands
+    url: https://github.com/umd-lhcb/nanoDAQ/blob/master/README.md
+
+- title: UMD sites
+  type: UT general
+  links:
+  - title: UMD Github repos
+    url: https://github.com/umd-lhcb
+  - title: electronic-projects (UMD boards)
+    url: https://github.com/umd-lhcb/electronic-projects
+  - title: UMD UT site
+    url: https://umd-lhcb.github.io/ut-hw-doc/
+
+- title: General UT sites
+  type: UT general
+  links:
+  - title: UT meetings
+    url: https://indico.cern.ch/category/1245/
+    protected: Yes
+  - title: UT EDMS projects
+    url: https://edms.cern.ch/ui/#!master/navigator/project?P:1039891368:1669240769:subDocs
+    protected: Yes
+  - title: Syracuse database
+    url: http://hep.phy.syr.edu/~utdb/
+    protected: Yes
+
+
+###### UT production boards
 - title: True backplane
-  type: UT boards
+  type: UT production boards
   links:
   - title: Schematics
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/schematic_true_backplane.pdf
@@ -16,7 +54,7 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_gerber.zip
 
 - title: Mirror backplane
-  type: UT boards
+  type: UT production boards
   links:
   - title: Schematics
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/schematic_mirror_backplane.pdf
@@ -32,7 +70,7 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_gerber.zip
 
 - title: DCB
-  type: UT boards
+  type: UT production boards
   links:
   - title: Schematics
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb.pdf
@@ -42,9 +80,13 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-09-30_dcb_bom.xls
   - title: Gerbers
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-09-30_dcb_gerber.zip
+  - title: Mechanical assembly
+    url: https://umd-lhcb.github.io/ut-hw-doc/dcb/dcb_assembly/dcb_assembly/
+  - title: DCB manual
+    url: https://github.com/umd-lhcb/gbtx_brds_doc/releases/download/0.8.5/gbtx_brds_doc.pdf
     
 - title: True P2B2
-  type: UT boards
+  type: UT production boards
   links:
   - title: Schematics
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/schematic_true_p2b2.pdf
@@ -54,7 +96,7 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-11-18_true_p2b2_gerber.zip
 
 - title: Mirror P2B2
-  type: UT boards
+  type: UT production boards
   links:
   - title: Schematics
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/schematic_mirror_p2b2.pdf
@@ -64,7 +106,7 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-10-18_mirror_p2b2_gerber.zip
 
 - title: DCB optical mezzanine
-  type: UT boards
+  type: UT production boards
   links:
   - title: Schematics
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb_opt_mezz.pdf
@@ -74,6 +116,33 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-10-02_dcb_opt_mezz_bom.xls
   - title: Gerbers
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-10-02_dcb_opt_mezz_gerber.zip
+
+- title: LVR
+  type: UT production boards
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/schematic_lvr.pdf
+  - title: Altium project
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_project.zip
+  - title: BOM
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_bom.xlsx
+  - title: Gerbers
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_gerber.zip
+  - title: Firmware
+    url: https://github.com/umd-lhcb/lvr_fw
+
+- title: CCM
+  type: UT production boards
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/schematic_ccm.pdf
+  - title: Altium project
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-10-09_ccm_project.zip
+  - title: BOMs 12A, 12M, 12S, 15M, 15S, 25A
+    url: https://github.com/umd-lhcb/electronic-projects/tree/master/lvr/2019-10-09_ccm_boms
+  - title: Gerbers
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-10-09_ccm_gerber.zip
+
 
 
 
@@ -94,12 +163,89 @@
   - title: Altium project
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2018-07-23_dcb_opt_mezz_prototype_project.zip
     
+- title: Pathfinder backplane
+  type: UT board prototypes
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/schematic_pathfinder_backplane.pdf
+  - title: Altium project
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2018-10-04_pathfinder_backplane_project.zip
+  - title: BOM
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2018-10-24_pathfinder_backplane_bom.xlsx
+  - title: Gerbers
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2018-10-24_pathfinder_backplane_gerber.zip
+    
+- title: Comet
+  type: UT board prototypes
+  links:
+  - title: Schematics
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/comet/schematic_comet.pdf
+  - title: Schematics daughter board
+    url: https://github.com/umd-lhcb/electronic-projects/raw/master/comet/schematic_comet_daughter_board.pdf
+  - title: Firmware
+    url: https://github.com/umd-lhcb/comet_fw
     
 ###### Physics analyses
-- title: Run 2 $R(D^{(*)})$
+- title: Run 1 $R(J/\Psi)$
+  type: Physics analyses
+  links:
+  - title: Ntupling and plotting code
+    url: https://github.com/umd-lhcb/RJpsiRun1AnalysisPreservation
+    protected: Yes
+  - title: Paper (PRL)
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.121801
+  - title: ANA note 2016-059
+    url: https://github.com/umd-lhcb/group-talks/raw/master/ana_thesis/LHCb-ANA-2016-59_Run1_RJPsi.pdf
+    protected: Yes
+  - title: Thesis (Jack Wimberley)
+    url: https://github.com/umd-lhcb/group-talks/raw/master/ana_thesis/2018_Jack_Wimberley-Thesis_RJpsi.pdf
+    protected: Yes
+
+- title: Run 1 muonic $R(D^{*})$
+  type: Physics analyses
+  links:
+  - title: Ntupling and plotting code
+    url: https://github.com/umd-lhcb/RDRDstRun1AnalysisPreservation
+  - title: Paper (PRL)
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.159901
+  - title: ANA note 2014-052
+    url: https://github.com/umd-lhcb/group-talks/raw/master/ana_thesis/LHCb-ANA-2014-052_Run1_RDs.pdf
+    protected: Yes
+
+- title: Run 2 muonic $R(D^{(*)})$
   type: Physics analyses
   links:
   - title: Ntupling wiki
     url: https://umd-lhcb.github.io/lhcb-ntuples-gen/ntupling/installation/
-  - title: Ntupling code
+  - title: Step 1 ntupling code (lhcb-ntuples-gen)
     url: https://github.com/umd-lhcb/lhcb-ntuples-gen/
+  - title: Step 2 ntupling code (pyBabyMaker)
+    url: https://github.com/umd-lhcb/pyBabyMaker
+  - title: Plotting code (pyTuplingUtils)
+    url: https://github.com/umd-lhcb/pyTuplingUtils
+
+- title: LHCb analyses
+  type: Physics analyses
+  links:
+  - title: LHCb public analyses
+    url: https://lhcb-publications-stats.web.cern.ch/lhcb-publications-stats/done.html
+    protected: Yes
+  - title: LHCb analyses in preparation
+    url: https://lhcb-publications-stats.web.cern.ch/lhcb-publications-stats/active.html
+    protected: Yes
+    
+- title: General semileptonic sites
+  type: Physics analyses
+  links:
+  - title: HFLAV semileptonic averages
+    url: https://hflav.web.cern.ch/content/semileptonic-b-decays
+  - title: Semileptonic WG meetings
+    url: https://indico.cern.ch/category/5009/
+    protected: Yes
+  - title: Semileptonic WG e-group
+    url: https://groups.cern.ch/group/lhcb-semileptonic/Lists/Archive/100.aspx
+    protected: Yes
+  - title: Semileptonic WG twiki
+    url: https://twiki.cern.ch/twiki/bin/viewauth/LHCbPhysics/SemileptonicCPWG
+    protected: Yes
+
