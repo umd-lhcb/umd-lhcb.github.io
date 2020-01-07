@@ -14,6 +14,7 @@ title: Talks
         <section id="main_content" class="p-4">
           <!-- Automatically generate recent talks -->
           <h1>Recent talks</h1>
+          <hr>
           <div class="row">
           {% assign all_talks_sorted = site.data.talks | sort: "date" | reverse | slice: 0, 9 %}
           {% for talk in all_talks_sorted %}
@@ -49,7 +50,7 @@ title: Talks
           </div>
 
           <h1>All talks sorted by author</h1>
-          <br>
+          <hr>
           <!-- Talks by author -->
           {% assign authors = site.data.talks | map: "author" | uniq %}
           {% for author in authors %}
