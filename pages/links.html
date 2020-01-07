@@ -12,9 +12,10 @@ title: UMD group links
     <div class="container">
       <div class="bg-light">
         <section id="main_content" class="p-4">
-
-          Links marked as (protected) may require logging in to your Github or CERN LHCb account.
-          <br><br>
+          <p>
+            Links marked as (protected) may require logging in to your Github
+            or CERN LHCb account.
+          </p>
 
           <!-- Links by type -->
           {% assign types = site.data.links | map: "type" | uniq %}
@@ -34,7 +35,7 @@ title: UMD group links
                     <div class="col-12">
                       <li> <a href="{{ link.url }}" class="font-weight-normal">{{ link.title }}</a>
                       {% if link.protected %}
-                      (protected)
+                        (protected)
                       {% endif %}
                       </li>
                     </div>
