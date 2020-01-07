@@ -138,15 +138,15 @@
 - title: The Upstream Tracker Upgrade Project
   url: https://indico.cern.ch/event/561618/contributions/2354440/attachments/1366002/2069280/UT_Overview_short_WCP_11_04_16.pdf
   author: Will Parker
-  meeting: 2016 Annual US LHC Users Association Meeting
-  location: LBNL, Berkeley, CA
+  meeting: 2016 Annual US LHC Users Association Meeting, Lawrence Berkeley National Laboratory
+  location: Berkeley, CA
   date: 2016-11-04
 
 # Zishuo Yang
 - title: LHCb Upstream Tracker upgrade and its off-detector electronics
   url: /talks/20181026-yang.pdf
   author: Zishuo Yang
-  meeting: US LHC Users Association Meeting
+  meeting: US LHC Users Association Meeting, Fermi National Accelerator Laboratory
   location: Batavia, IL
   date: 2018-10-26
 
