@@ -84,7 +84,7 @@
     url: https://umd-lhcb.github.io/ut-hw-doc/dcb/dcb_assembly/dcb_assembly/
   - title: DCB manual
     url: https://github.com/umd-lhcb/gbtx_brds_doc/releases/download/0.8.5/gbtx_brds_doc.pdf
-    
+
 - title: True P2B2
   type: UT production boards
   links:
@@ -144,8 +144,6 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-10-09_ccm_gerber.zip
 
 
-
-
 ###### UT board prototypes
 - title: DCB prototype
   type: UT board prototypes
@@ -162,7 +160,7 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb_opt_mezz_prototype.pdf
   - title: Altium project
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2018-07-23_dcb_opt_mezz_prototype_project.zip
-    
+
 - title: Pathfinder backplane
   type: UT board prototypes
   links:
@@ -174,7 +172,7 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2018-10-24_pathfinder_backplane_bom.xlsx
   - title: Gerbers
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2018-10-24_pathfinder_backplane_gerber.zip
-    
+
 - title: Comet
   type: UT board prototypes
   links:
@@ -184,7 +182,8 @@
     url: https://github.com/umd-lhcb/electronic-projects/raw/master/comet/schematic_comet_daughter_board.pdf
   - title: Firmware
     url: https://github.com/umd-lhcb/comet_fw
-    
+
+
 ###### Physics analyses
 - title: Run 1 $R(J/\Psi)$
   type: Physics analyses
@@ -233,7 +232,7 @@
   - title: LHCb analyses in preparation
     url: https://lhcb-publications-stats.web.cern.ch/lhcb-publications-stats/active.html
     protected: Yes
-    
+
 - title: General semileptonic sites
   type: Physics analyses
   links:
@@ -248,4 +247,3 @@
   - title: Semileptonic WG twiki
     url: https://twiki.cern.ch/twiki/bin/viewauth/LHCbPhysics/SemileptonicCPWG
     protected: Yes
-
