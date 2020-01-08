@@ -5,6 +5,9 @@
       - title: Lab log (lab-notes)
         url: https://github.com/umd-lhcb/lab-notes/issues?utf8=%E2%9C%93&q=is%3Aissue
         protected: true
+      - title: Lab wiki
+        url: https://github.com/umd-lhcb/lab-notes/wiki
+        protected: Yes
       - title: UMD boards database
         url: https://docs.google.com/spreadsheets/d/1KjXGhOFzi0SZPsozpKzxGjVtfr4kkS_Hv5EigUwKOj8/edit?usp=sharing
       - title: miniDAQ usage
@@ -15,8 +18,11 @@
 - title: UMD sites
   type: UT general
   links:
-      - title: UMD Github repos
+      - title: Github repos
         url: https://github.com/umd-lhcb
+      - title: Internal talks
+        url: https://github.com/umd-lhcb/group-talks
+        protected: Yes
       - title: electronic-projects (UMD boards)
         url: https://github.com/umd-lhcb/electronic-projects
       - title: UMD UT site

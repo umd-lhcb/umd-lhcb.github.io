@@ -17,7 +17,8 @@ title: People
             <hr>
             <div class="row">
             {% for person in section.members %}
-              <div class="col-12 col-md-4 mb-4">
+            <div class="col-12 col-md-4 mb-4">
+            {% if person.name %}
                 <div class="row">
                   <div class="col-12">
                     <div class="font-weight-bold">{{ person.name }}</div>
@@ -41,6 +42,7 @@ title: People
                   </div>
                   {% endif %}
                 </div>
+              {% endif %}
               </div>
             {% endfor %}
           </div>
