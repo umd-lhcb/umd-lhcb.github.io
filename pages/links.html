@@ -13,7 +13,8 @@ title: UMD group links
       <div class="bg-light">
         <section id="main_content" class="p-4">
           <p>
-            Links marked as (protected) may require logging in to your Github
+            Links marked as <i class="fas fa-lock"></i>
+            may require logging in to your Github
             or CERN LHCb account.
           </p>
 
@@ -35,7 +36,7 @@ title: UMD group links
                     <div class="col-12">
                       <li> <a href="{{ link.url }}" class="font-weight-normal">{{ link.title }}</a>
                       {% if link.protected %}
-                        (protected)
+                        <i class="fas fa-lock"></i>
                       {% endif %}
                       </li>
                     </div>
