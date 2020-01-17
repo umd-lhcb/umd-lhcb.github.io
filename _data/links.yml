@@ -50,14 +50,16 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/schematic_true_backplane.pdf
       - title: Altium project
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-08-14_true_backplane_project.zip
-      - title: BOM alpha
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_bom_alpha.xlsx
-      - title: BOM beta
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_bom_beta.xlsx
-      - title: BOM gamma
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_bom_gamma.xlsx
+      - title: BOM F (full)
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_bom_f.xlsx
+      - title: BOM P (partially depopulated)
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_bom_p.xlsx
+      - title: BOM D (depopulated)
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_bom_d.xlsx
       - title: Gerbers
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_gerber.zip
+      - title: Photos
+        url: https://umd.box.com/s/dcyf8rnqd7ztpoqngwzemrfzvqk4rcx7
 
 - title: Mirror backplane
   type: UT production boards
@@ -66,14 +68,68 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/schematic_mirror_backplane.pdf
       - title: Altium project
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-08-09_mirror_backplane_project.zip
-      - title: BOM alpha
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_bom_alpha.xls
-      - title: BOM beta
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_bom_beta.xls
-      - title: BOM gamma
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_bom_gamma.xls
+      - title: BOM F (full)
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_bom_f.xls
+      - title: BOM P (partially depopulated)
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_bom_p.xls
+      - title: BOM D (depopulated)
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_bom_d.xls
       - title: Gerbers
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_gerber.zip
+      - title: Photos
+        url: https://umd.box.com/s/99b79gr4tiuctlojaqgokgne0hjjcwqc
+
+- title: LVR
+  type: UT production boards
+  links:
+      - title: Schematics
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/schematic_lvr.pdf
+      - title: Altium project
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_project.zip
+      - title: BOM
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_bom.xlsx
+      - title: Gerbers
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_gerber.zip
+      - title: Firmware
+        url: https://github.com/umd-lhcb/lvr_fw
+      - title: Photos
+        url: 
+
+- title: True P2B2
+  type: UT production boards
+  links:
+      - title: Schematics
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/schematic_true_p2b2.pdf
+      - title: Altium project
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-11-18_true_p2b2_project.zip
+      - title: Gerbers
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-11-18_true_p2b2_gerber.zip
+      - title: Photos
+        url: https://umd.box.com/s/zl7n0ecf4e74j1ur3qi2hi95nt4d22xo
+
+- title: Mirror P2B2
+  type: UT production boards
+  links:
+      - title: Schematics
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/schematic_mirror_p2b2.pdf
+      - title: Altium project
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-12-13_mirror_p2b2_project.zip
+      - title: Gerbers
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-10-18_mirror_p2b2_gerber.zip
+      - title: Photos
+        url: https://umd.box.com/s/bo8998a1vjwh2gdaabskyzjjxmhdzz8q
+
+- title: CCM
+  type: UT production boards
+  links:
+      - title: Schematics
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/schematic_ccm.pdf
+      - title: Altium project
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-10-09_ccm_project.zip
+      - title: BOMs 12A, 12M, 12S, 15M, 15S, 25A
+        url: https://github.com/umd-lhcb/electronic-projects/tree/master/lvr/2019-10-09_ccm_boms
+      - title: Gerbers
+        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-10-09_ccm_gerber.zip
 
 - title: DCB
   type: UT production boards
@@ -90,26 +146,9 @@
         url: https://umd-lhcb.github.io/ut-hw-doc/dcb/dcb_assembly/dcb_assembly/
       - title: DCB manual
         url: https://github.com/umd-lhcb/gbtx_brds_doc/releases/download/0.8.5/gbtx_brds_doc.pdf
+      - title: Photos
+        url: https://umd.box.com/s/zl7n0ecf4e74j1ur3qi2hi95nt4d22xo
 
-- title: True P2B2
-  type: UT production boards
-  links:
-      - title: Schematics
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/schematic_true_p2b2.pdf
-      - title: Altium project
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-11-18_true_p2b2_project.zip
-      - title: Gerbers
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-11-18_true_p2b2_gerber.zip
-
-- title: Mirror P2B2
-  type: UT production boards
-  links:
-      - title: Schematics
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/schematic_mirror_p2b2.pdf
-      - title: Altium project
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-12-13_mirror_p2b2_project.zip
-      - title: Gerbers
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/p2b2/2019-10-18_mirror_p2b2_gerber.zip
 
 - title: DCB optical mezzanine
   type: UT production boards
@@ -122,32 +161,8 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-10-02_dcb_opt_mezz_bom.xls
       - title: Gerbers
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-10-02_dcb_opt_mezz_gerber.zip
-
-- title: LVR
-  type: UT production boards
-  links:
-      - title: Schematics
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/schematic_lvr.pdf
-      - title: Altium project
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_project.zip
-      - title: BOM
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_bom.xlsx
-      - title: Gerbers
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_gerber.zip
-      - title: Firmware
-        url: https://github.com/umd-lhcb/lvr_fw
-
-- title: CCM
-  type: UT production boards
-  links:
-      - title: Schematics
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/schematic_ccm.pdf
-      - title: Altium project
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-10-09_ccm_project.zip
-      - title: BOMs 12A, 12M, 12S, 15M, 15S, 25A
-        url: https://github.com/umd-lhcb/electronic-projects/tree/master/lvr/2019-10-09_ccm_boms
-      - title: Gerbers
-        url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-10-09_ccm_gerber.zip
+      - title: Photos
+        url: https://umd.box.com/s/mzq7pzopf3j3xfjg1ewesmbxhx3xgfyw
 
 
 ###### UT board prototypes
@@ -158,6 +173,8 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/schematic_dcb_prototype.pdf
       - title: Altium project
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2018-07-09_dcb_prototype_project.zip
+      - title: Photos
+        url: https://umd.box.com/s/y5gum27y59q77fwzyun7o7k9sy8sjp9f
 
 - title: DCB optical mezzanine prototype
   type: UT board prototypes
@@ -178,6 +195,8 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2018-10-24_pathfinder_backplane_bom.xlsx
       - title: Gerbers
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2018-10-24_pathfinder_backplane_gerber.zip
+      - title: Photos
+        url: https://umd.box.com/s/o5a2ajbusj5vnwzeravgmjmi7nsm6yg0
 
 - title: Comet
   type: UT board prototypes
@@ -188,6 +207,8 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/comet/schematic_comet_daughter_board.pdf
       - title: Firmware
         url: https://github.com/umd-lhcb/comet_fw
+      - title: Photos
+        url: https://umd.box.com/s/0j73bbtxza281dkcru9i77o93vk1kq9r
 
 
 ###### Physics analyses
