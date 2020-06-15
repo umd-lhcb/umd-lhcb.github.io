@@ -90,10 +90,12 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_bom.xlsx
       - title: Gerbers
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/lvr/2019-09-05_lvr_gerber.zip
+      - title: Manual
+        url: http://flavor.physics.umd.edu/research/ut/lvr_manual.pdf
       - title: Firmware
         url: https://github.com/umd-lhcb/lvr_fw
       - title: Photos
-        url: 
+        url: https://umd.box.com/s/haufw3fllsfhzq0ndg74z22ls4mxqwnt
 
 - title: True P2B2
   type: UT production boards
