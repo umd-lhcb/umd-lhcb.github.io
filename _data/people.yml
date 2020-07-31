@@ -9,10 +9,7 @@
         email: manuelf@umd.edu
         address: 3114 Physical Sciences Complex
         website: http://flavor.physics.umd.edu/manuelf
-      - name: Svende Braun
-        title: Postdoc
-        email: sabraun@umd.edu
-        address: 3105 Physical Sciences Complex
+      - name: 
       - name: Phoebe Hamilton
         title: Postdoc
         email: pmham@umd.edu
@@ -20,6 +17,10 @@
       - name: William Parker
         title: Postdoc
         email: wcparker@umd.edu
+        address: 3105 Physical Sciences Complex
+      - name: Svende Braun
+        title: Postdoc
+        email: sabraun@umd.edu
         address: 3105 Physical Sciences Complex
       - name: Zishuo Yang
         title: Graduate Student
@@ -29,6 +30,10 @@
         title: Graduate Student
         email: syp@umd.edu
         address: 3101 Physical Sciences Complex
+      - name: Alex Fernez
+        title: Graduate Student
+        email: afernez@umd.edu
+        address: 3119 Physical Sciences Complex
   photo:
       file: photos/group_members-191210.jpg
       caption: "From left to right: Phoebe Hamilton, Will Parker, Hassan Jawahery, Yipeng Sun, Manuel Franco Sevilla, Zishuo Yang."

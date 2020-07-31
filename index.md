@@ -31,7 +31,7 @@ Currently, our research focuses on the following areas:
 
 {% include figure.html file="lhcb_detector_3d.jpg"
                        alt="LHCb detector"
-                       caption="A 3D rendering of run-1 and run-2 LHCb detector."
+                       caption="A 3D rendering of the LHCb detector."
 %}
 
 If you are interested in learning more about what we do, just email us at [jawahery@umd.edu](mailto:jawahery@umd.edu)
