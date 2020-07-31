@@ -23,8 +23,7 @@ env:
 
 deploy:
     provider: pages
-    skip_cleanup: true
-    keep_history: true
+    edge: true
     github_token: $GH_TOKEN
     on:
         branch: build
