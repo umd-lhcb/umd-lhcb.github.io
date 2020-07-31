@@ -3,7 +3,7 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .sass-cache
-Gemfile.lock
+.envrc
 
 *.txt
 .ruby-version
