@@ -9,7 +9,7 @@
         email: manuelf@umd.edu
         address: 3114 Physical Sciences Complex
         website: http://flavor.physics.umd.edu/manuelf
-      - name: 
+      - name:
       - name: Phoebe Hamilton
         title: Postdoc
         email: pmham@umd.edu
@@ -34,9 +34,11 @@
         title: Graduate Student
         email: afernez@umd.edu
         address: 3119 Physical Sciences Complex
-  photo:
-      file: photos/group_members-191210.jpg
+  photos:
+    - file: photos/group_members-191210.jpg
       caption: "From left to right: Phoebe Hamilton, Will Parker, Hassan Jawahery, Yipeng Sun, Manuel Franco Sevilla, Zishuo Yang."
+    - file: photos/svende_raymond_rhea.jpg
+      caption: "Frome left to right: Svende Braun, Raymond (undergrad), and Rhea (undergrad)."
 
 - section: Administrative assistant
   members:

@@ -18,7 +18,7 @@ title: People
             <div class="row">
             {% for person in section.members %}
               <div class="col-12 col-md-4 mb-4">
-              {% if person.name %}
+              {% if person.name %}  <!-- This is needed to have placeholder entries -->
                 <div class="row">
                   <div class="col-12">
                     <div class="font-weight-bold">{{ person.name }}</div>
@@ -45,10 +45,20 @@ title: People
               {% endif %}
               </div>
             {% endfor %}
-          </div>
-          {% if section.photo %}
-            {% include figure.html file=section.photo.file alt="Photo" caption=section.photo.caption %}
-          {% endif %}
+            </div>
+            {% if section.photos %}
+              <div class="row">
+                {% for fig in section.photos %}
+                  <div class="col-12 col-md-6 mb-6">
+                    <div class="row">
+                      <div class="col-12">
+                        {% include figure.html file=fig.file alt="Photo" caption=fig.caption %}
+                      </div>
+                    </div>
+                  </div>
+                {% endfor %}
+              </div>
+            {% endif %}
           {% endfor %}
         </section>
       </div>
