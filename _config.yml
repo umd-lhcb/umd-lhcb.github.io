@@ -46,7 +46,6 @@ exclude:
     - vendor/cache/
     - vendor/gems/
     - vendor/ruby/
-    - push.sh
     - README.md
     - README.local.md
     - LICENSE.txt
@@ -54,3 +53,5 @@ exclude:
     - assets/images/babar_logo.png
     - assets/images/physics_logo_final_white.png
     - assets/images/photos/group_members-181121.jpg
+    - shell.nix
+    - gemset.nix
