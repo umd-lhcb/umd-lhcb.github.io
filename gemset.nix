@@ -307,16 +307,6 @@
     };
     version = "0.3.1";
   };
-  libv8 = {
-    groups = ["default" "jekyll_plugins"];
-    platforms = [];
-    source = {
-      remotes = ["https://rubygems.org"];
-      sha256 = "0317sr3nrl51sp844bps71smkrwim3fjn47wdfpbycixnbxspivm";
-      type = "gem";
-    };
-    version = "8.4.255.0";
-  };
   liquid = {
     groups = ["default" "jekyll_plugins"];
     platforms = [];
@@ -347,17 +337,6 @@
       type = "gem";
     };
     version = "0.4.0";
-  };
-  mini_racer = {
-    dependencies = ["libv8"];
-    groups = ["jekyll_plugins"];
-    platforms = [];
-    source = {
-      remotes = ["https://rubygems.org"];
-      sha256 = "0r7j241mvhyyc017bqgp0pvf3jyrwbcqvz2pzm0r8zn2r85ks1jl";
-      type = "gem";
-    };
-    version = "0.3.1";
   };
   multi_css = {
     dependencies = ["css_press"];
