@@ -14,6 +14,15 @@ module Jekyll::Misc
   def getkeys(hash)
     return hash.keys
   end
+
+  def gendict(key, val)
+    return {key => val}
+  end
+
+  def appenddict(hash, key, val)
+    hash[key] = val
+    return hash
+  end
 end
 
 Liquid::Template.register_filter(Jekyll::Misc)
