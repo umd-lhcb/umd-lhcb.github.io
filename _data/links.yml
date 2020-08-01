@@ -247,14 +247,14 @@
   links:
       - title: Ntupling wiki
         url: https://umd-lhcb.github.io/lhcb-ntuples-gen/ntupling/installation/
-      - title: Private documentation (`rdx-run2-analysis`)
+      - title: Private documentation (rdx-run2-analysis)
         url: https://github.com/umd-lhcb/rdx-run2-analysis/issues?q=is%3Aissue
         protected: true
-      - title: Step 1 ntupling code (`lhcb-ntuples-gen`)
+      - title: Step 1 ntupling code (lhcb-ntuples-gen)
         url: https://github.com/umd-lhcb/lhcb-ntuples-gen/
-      - title: Step 2 ntupling code (`pyBabyMaker`)
+      - title: Step 2 ntupling code (pyBabyMaker)
         url: https://github.com/umd-lhcb/pyBabyMaker
-      - title: Plotting code (`pyTuplingUtils`)
+      - title: Plotting code (pyTuplingUtils)
         url: https://github.com/umd-lhcb/pyTuplingUtils
 
 - title: LHCb analyses
