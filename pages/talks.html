@@ -49,11 +49,26 @@ title: Talks
           {% endfor %}
           </div>
 
-          <h1>All talks sorted by author</h1>
-          <hr>
-          <!-- Talks by author -->
+          <!-- Figure out former members first -->
+          {% assign former_members = site.data.people | where: "section", "Former members" | map: "members" | map: "name" %}
+          {% assign former_students = site.data.people | where: "section", "Former graduate students and postdocs" | map: "members" | map: "name" %}
+          {% assign current_members = site.data.people | where: "section", "Current members" | map: "members" | map: "name" %}
+
+          {% assign all_former_members = former_members | concat: former_students | complement: current_members %}
+
+          <!-- Figure out current and former authors -->
           {% assign authors = site.data.talks | map: "author" | uniq %}
-          {% for author in authors %}
+          {% assign current_authors = authors | complement: all_former_members %}
+          {% assign former_authors = authors | intersect: all_former_members %}
+
+          {% for a in former_authors %}
+          - {{ a }}
+          {% endfor %}
+
+          <h1>All talks given by current members</h1>
+          <hr>
+          <!-- Talks by current authors -->
+          {% for author in current_authors %}
             <h3>{{ author }}</h3>
             <div class="row">
             {% assign author_talks_sorted = site.data.talks | where: "author", author | sort: "date" | reverse %}
