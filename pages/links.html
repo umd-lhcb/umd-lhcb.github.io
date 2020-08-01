@@ -22,7 +22,6 @@ title: UMD group links
           {% assign types = site.data.links | map: "type" | uniq %}
           {% for type in types %}
             <h1>{{ type }}</h1>
-            <hr>
             <div class="row">
             {% assign linksets = site.data.links | where: "type", type %}
             {% for linkset in linksets %}
