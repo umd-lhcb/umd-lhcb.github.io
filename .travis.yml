@@ -1,8 +1,20 @@
-language: nix
-nix: 2.3.6
+language: ruby
+
+rvm: 2.6.6
+
+cache: bundler
+
+branches:
+    only:
+        build
+
+before_install:
+    - gem install bundler
+
+install: bundle install
 
 script:
-    - nix-shell --run "jekyll build"
+    - jekyll build
 
 env:
     global:
