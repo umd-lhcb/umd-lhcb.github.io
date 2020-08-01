@@ -49,17 +49,11 @@ title: Talks
           {% endfor %}
           </div>
 
-          <!-- Figure out former members first -->
-          {% assign former_members = site.data.people | where: "section", "Former members" | map: "members" | map: "name" %}
-          {% assign former_students = site.data.people | where: "section", "Former graduate students and postdocs" | map: "members" | map: "name" %}
-          {% assign current_members = site.data.people | where: "section", "Current members" | map: "members" | map: "name" %}
-
-          {% assign all_former_members = former_members | concat: former_students | complement: current_members %}
-
           <!-- Figure out current and former authors -->
+          {% assign current_members = site.data.people | where: "section", "Current members" | map: "members" | map: "name" %}
           {% assign authors = site.data.talks | map: "author" | uniq %}
-          {% assign current_authors = authors | complement: all_former_members %}
-          {% assign former_authors = authors | intersection: all_former_members %}
+          {% assign current_authors = authors | intersection: current_members %}
+          {% assign former_authors = authors | complement: current_members %}
 
           <h1>All talks given by current members</h1>
           <hr>
