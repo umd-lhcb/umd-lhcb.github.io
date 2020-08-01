@@ -9,7 +9,7 @@ branches:
         build
 
 before_install:
-    - gem install bundler
+    - gem install bundler:2.1.4
 
 install: bundle install
 
