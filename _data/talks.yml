@@ -41,7 +41,7 @@ Hassan Jawahery:
       date: 2013-07-31
     - title: CP Violation
       url: https://indico.cern.ch/event/129980/session/1/contribution/47/attachments/90653/129664/Jawahery-CPV-DFP2011.pdf
-      meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
+      meeting: 2011 Meeting of the Division of Particles & Fields of the American Physical Society
       location: Providence, RI
       note: Plenary talk
       date: 2011-08-13
@@ -87,7 +87,7 @@ Phoebe Hamilton:
       date: 2019-07-30
     - title: Recent Results in Semileptonic $B$ Decays with BABAR
       url: https://indico.cern.ch/event/129980/session/16/contribution/21/attachments/90374/129331/Hamilton-DPF-2011-v2.pdf
-      meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2011)
+      meeting: 2011 Meeting of the Division of Particles & Fields of the American Physical Society
       location: Providence, RI
       note: Plenary talk
       date: 2011-08-09
@@ -103,7 +103,7 @@ Phoebe Hamilton:
       date: 2015-07-02
     - title: Experimental Overview of Lepton Nonuniversality Results and Prospects from $B$ Physics
       url: https://cds.cern.ch/record/2043834/files/LHCb-TALK-2015-216.pdf
-      meeting: Meeting of the Division of Particles and Fields of the American Physical Society (DPF2015)
+      meeting: 2015 Meeting of the Division of Particles & Fields of the American Physical Society
       location: Ann Arbor, MI
       note: Plenary talk
       date: 2015-08-07
@@ -119,13 +119,6 @@ William Parker:
       meeting: 2016 Annual US LHC Users Association Meeting, Lawrence Berkeley National Laboratory
       location: Berkeley, CA
       date: 2016-11-04
-
-Zishuo Yang:
-    - title: LHCb Upstream Tracker upgrade and its off-detector electronics
-      url: /talks/20181026-yang.pdf
-      meeting: US LHC Users Association Meeting, Fermi National Accelerator Laboratory
-      location: Batavia, IL
-      date: 2018-10-26
 
 Jack Wimberley:
     - title: CP violation in $B$ and $B_s$ decays
@@ -145,3 +138,10 @@ Jason Andrews:
       meeting: APS April Meeting 2015
       location: Baltimore, MD
       date: 2015-04-11
+
+Zishuo Yang:
+    - title: LHCb Upstream Tracker upgrade and its off-detector electronics
+      url: /talks/20181026-yang.pdf
+      meeting: US LHC Users Association Meeting, Fermi National Accelerator Laboratory
+      location: Batavia, IL
+      date: 2018-10-26
