@@ -38,7 +38,7 @@
     - file: photos/group_members-191210.jpg
       caption: "From left to right: Phoebe Hamilton, Will Parker, Hassan Jawahery, Yipeng Sun, Manuel Franco Sevilla, Zishuo Yang."
     - file: photos/svende_raymond_rhea.jpg
-      caption: "Frome left to right: Raymond (undergrad), Svende Braun, and Rhea (undergrad)."
+      caption: "From left to right: Raymond (undergrad), Svende Braun, Rhea (undergrad)."
 
 - section: Administrative assistant
   members:
@@ -63,7 +63,7 @@
       - name: Jack Wimberley
         title: Software Engineer at Akamai
       - name: Phoebe Hamilton
-        title: PhD. Postdoc at UMD
+        title: Postdoc at UMD
       - name: Riccardo Cenci
         title: Research Associate at INFN Sezione di Pisa, Italy
       - name: Gabriele Simi
