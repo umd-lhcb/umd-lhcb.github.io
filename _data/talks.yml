@@ -73,6 +73,17 @@ Hassan Jawahery:
       date: 2003-08-12
 
 Manuel Franco Sevilla:
+    - title: New silicon trackers for a triggerless LHCb - the Vertex Locator (VELO) and the Upstream Tracker (UT)
+      url: https://indico.cern.ch/event/895924/contributions/3968806/attachments/2115560/3559535/20-10-05_manuelf_lhcb_VELO_UT_VERTERX2020.pdf
+      meeting: VERTEX 2020 (29th International Workshop on Vertex Detectors)
+      location: Virtual
+      note: Plenary talk
+      date: 2020-10-05
+    - title: Lepton Flavor Universality Violation in charged-current b decays at LHCb
+      url: https://indico.fnal.gov/event/44442/contributions/193285/attachments/135298/167710/20-09-29_manuelf_lhcb_prospects_snowmass.pdf
+      meeting: Snowmass workshop - Lepton flavor violation and lepton universality violation in meson and baryon decays
+      location: Virtual
+      date: 2020-09-29
     - title: LHCb upgrades I and II
       url: https://indico.cern.ch/event/782953/contributions/3441657/attachments/1888344/3113546/19-07-31_manuelf_lhcb_upgrades_dpf.pdf
       meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
@@ -120,6 +131,13 @@ William Parker:
       location: Berkeley, CA
       date: 2016-11-04
 
+Svende Braun:
+    - title: Semileptonic b Decays at LHCb
+      url: https://indico.ipmu.jp/event/320/contributions/5127/attachments/3340/4294/SvendeBraun_Beauty2020.pdf
+      meeting: BEAUTY 2020 (19th International Conference on B-Physics at Frontier Machines)
+      location: Virtual
+      date: 2020-09-22
+
 Jack Wimberley:
     - title: CP violation in $B$ and $B_s$ decays
       url: https://cds.cern.ch/record/2014751/files/LHCb-TALK-2015-086.pdf
@@ -140,6 +158,11 @@ Jason Andrews:
       date: 2015-04-11
 
 Zishuo Yang:
+    - title: Tests of Lepton Flavor Universality in Semileptonic B Decays
+      url: /talks/20-04-21_ZishuoYang_APS2020_Tests_of_LFU_in_Semileptonic_B_Decays.pdf
+      meeting: APS April Meeting 2020
+      location: Virtual
+      date: 2020-04-21
     - title: LHCb Upstream Tracker upgrade and its off-detector electronics
       url: /talks/20181026-yang.pdf
       meeting: US LHC Users Association Meeting, Fermi National Accelerator Laboratory
