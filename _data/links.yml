@@ -60,6 +60,8 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-13_true_backplane_gerber.zip
       - title: Photos
         url: https://umd.box.com/s/dcyf8rnqd7ztpoqngwzemrfzvqk4rcx7
+      - title: Visual inspection and preparation checklist
+        url: https://docs.google.com/document/d/1PeLf8cPsfiIbphA_Zs2zO9EygfJ2MGr45PjirhIQkUE/edit#heading=h.vb8p0lepu9vn
 
 - title: Mirror backplane
   type: UT production boards
@@ -78,6 +80,8 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/backplane/2019-12-20_mirror_backplane_gerber.zip
       - title: Photos
         url: https://umd.box.com/s/99b79gr4tiuctlojaqgokgne0hjjcwqc
+      - title: Visual inspection and preparation checklist
+        url: https://docs.google.com/document/d/1PeLf8cPsfiIbphA_Zs2zO9EygfJ2MGr45PjirhIQkUE/edit#heading=h.vb8p0lepu9vn
 
 - title: LVR
   type: UT production boards
