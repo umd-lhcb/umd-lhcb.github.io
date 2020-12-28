@@ -3,8 +3,5 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .sass-cache
-.envrc
 
 *.txt
-.ruby-version
-.ruby-gemset
