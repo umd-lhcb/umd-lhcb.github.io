@@ -1,16 +1,16 @@
 Hassan Jawahery:
     - title: Flavor physics highlights
-      url: /talks/20190926-jawahery-bnl.pdf
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/19-09-26_jawahery_BNL_Flavor_physics_highlights.pdf
       meeting: Brookhaven Forum 2019, Particle Physics and Cosmology in the 2020s
       location: Upton, NY
       date: 2019-09-26
     - title: Physics at LHCb
-      url: /talks/20180508-jawahery-pheno.pdf
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/18-05-08_jawahery_pheno_Physics_at_LHCb.pdf
       meeting: 2018 Phenomenology Symposium, University of Pittsburgh
       location: Pittsburgh, OH
       date: 2018-05-08
     - title: Flavor in the HL-LHC era
-      url: /talks/20180404-jawahery-hl-lhc.pdf
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/18-04-04_jawahery_Flavor_in_the_hl-lhc.pdf
       meeting: HL/HE LHC Meeting, Fermi National Accelerator Laboratory
       location: Batavia, IL
       date: 2018-04-04
@@ -20,7 +20,7 @@ Hassan Jawahery:
       location: Menlo Park, CA
       date: 2014-12-12
     - title: CP Violation in the 21st Century
-      url: /talks/20150515-jawahery.pdf
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/15-05-15_jawahery_CP_violation_21_century.pdf
       meeting: Symposium and Memorial Concert for Val Fitch, Princeton University
       location: Princeton, NJ
       date: 2015-05-15
@@ -159,12 +159,12 @@ Jason Andrews:
 
 Zishuo Yang:
     - title: Tests of Lepton Flavor Universality in Semileptonic $B$ Decays
-      url: /talks/20-04-21_ZishuoYang_APS2020_Tests_of_LFU_in_Semileptonic_B_Decays.pdf
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/20-04-21_ZishuoYang_APS2020_Tests_of_LFU_in_Semileptonic_B_Decays.pdf
       meeting: APS April Meeting 2020
       location: Virtual
       date: 2020-04-21
     - title: LHCb Upstream Tracker upgrade and its off-detector electronics
-      url: /talks/20181026-yang.pdf
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/18-10-26_ZishuoYang_UT_US_LHC.pdf
       meeting: US LHC Users Association Meeting, Fermi National Accelerator Laboratory
       location: Batavia, IL
       date: 2018-10-26
