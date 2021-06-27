@@ -17,7 +17,7 @@
         };
       in
       {
-        devShell = pkgs.mkShell {
+        devShell = pkgs.mkShell.override { stdenv = pkgs.stdenvNoCC; } {
           name = "umd-lhcb-group-website";
           buildInputs = with pkgs; [
             bundler
