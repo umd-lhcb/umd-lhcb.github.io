@@ -13,7 +13,7 @@ Note that the official group website needs to be updated manually at
 Licensed under `CC0-1.0`.
 
 If you want to build this website locally, please refer to
-[`README.local.md`](https://github.com/umd-lhcb/umd-lhcb.github.io/blob/build/README.local.md).
+[`DEVELOP.md`](./DEVELOP.md).
 
 
 ## Change contents without locally install any `ruby` program
