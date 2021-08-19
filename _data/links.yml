@@ -14,6 +14,8 @@
         url: https://umd-lhcb.github.io/ut-hw-doc/minidaq/minidaq_usage/
       - title: nanoDAQ commands
         url: https://github.com/umd-lhcb/nanoDAQ/blob/master/README.md
+      - title: Soldering SOP
+        url: http://flavor.physics.umd.edu/research/ut/LHCb_lab_soldering_SOP.pdf
 
 - title: UMD sites
   type: UT general
