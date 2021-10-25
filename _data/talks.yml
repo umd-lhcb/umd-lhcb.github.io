@@ -73,6 +73,27 @@ Hassan Jawahery:
       date: 2003-08-12
 
 Manuel Franco Sevilla:
+    - title: New physics in B decays? Challenges to Lepton Flavor Universality from LHCb and the B factories
+      url: http://flavor.physics.umd.edu/manuelf/talks/21-09-07_manuelf_LFU_UMD_colloquium.pdf
+      location: University of Maryland
+      note: Physics departmental colloquium
+      date: 2021-09-07
+    - title: ${\cal R}(D^{(*)})$, ${\cal R}_{K^{(*)}}$, and their cousins - update on the continued challenges to lepton flavor universality
+      url: http://flavor.physics.umd.edu/manuelf/talks/21-05-05_manuelf_LFU_JHU_UMD_seminar_nobackup.pdf
+      meeting: Joint Johns Hopkins-University of Maryland seminar
+      location: Virtual
+      date: 2021-05-26
+    - title: Electroweak penguin anomalies
+      url: http://flavor.physics.umd.edu/manuelf/talks/21-04-19_manuelf_penguin_anomalies_APS.pdf
+      meeting: APS April Meeting, Minisymposium on Precision Measurements with Leptons
+      location: Virtual
+      note: Plenary talk
+      date: 2021-04-19
+    - title: LHCb Upgrades and Prospects for Charged Lepton Universality Violation
+      url: http://flavor.physics.umd.edu/manuelf/talks/20-10-14_manuelf_lhcb_upgrades_luv_UMD.pdf
+      meeting: University of Maryland HEP seminar
+      location: Virtual
+      date: 2020-10-14
     - title: New silicon trackers for a triggerless LHCb - the Vertex Locator (VELO) and the Upstream Tracker (UT)
       url: https://indico.cern.ch/event/895924/contributions/3968806/attachments/2115560/3559535/20-10-05_manuelf_lhcb_VELO_UT_VERTERX2020.pdf
       meeting: VERTEX 2020 (29th International Workshop on Vertex Detectors)
