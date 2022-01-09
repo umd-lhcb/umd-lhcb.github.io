@@ -2,11 +2,11 @@
   "nodes": {
     "flake-utils": {
       "locked": {
-        "lastModified": 1605370193,
-        "narHash": "sha256-YyMTf3URDL/otKdKgtoMChu4vfVL3vCMkRqpGifhUn0=",
+        "lastModified": 1623875721,
+        "narHash": "sha256-A8BU7bjS5GirpAUv4QA+QnJ4CceLHkcXdRp4xITDB0s=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "5021eac20303a61fafe17224c087f5519baed54d",
+        "rev": "f7e004a55b120c02ecb6219596820fcd32ca8772",
         "type": "github"
       },
       "original": {
@@ -17,24 +17,49 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1628144860,
-        "narHash": "sha256-cEBTjXuZVHCeCnQaZILI7mAiCWwX9nJ4dkup64zu8Lc=",
+        "lastModified": 1625223284,
+        "narHash": "sha256-jjLcDSU1rRiJb+n3uez23XAa7kbnPcGZTa6jIKh1GMQ=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "6dc0549183672acd39d735a465098ca9deeff6ad",
+        "rev": "357d2c8f6087685fe35cb1889a005a4dd4cce7b8",
         "type": "github"
       },
       "original": {
-        "owner": "NixOS",
+        "id": "nixpkgs",
         "ref": "nixpkgs-unstable",
-        "repo": "nixpkgs",
-        "type": "github"
+        "type": "indirect"
       }
     },
     "root": {
       "inputs": {
+        "flake-utils": [
+          "root-curated",
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "root-curated",
+          "nixpkgs"
+        ],
+        "root-curated": "root-curated"
+      }
+    },
+    "root-curated": {
+      "inputs": {
         "flake-utils": "flake-utils",
         "nixpkgs": "nixpkgs"
+      },
+      "locked": {
+        "lastModified": 1638539183,
+        "narHash": "sha256-Ni4Rwcmyd5bwMMdNijod9Hbz6jsqvzEfsg8oMIcjNJ0=",
+        "owner": "umd-lhcb",
+        "repo": "root-curated",
+        "rev": "ca0c46b5fc69d4aeff855c4a144f5b7fb7fabdca",
+        "type": "github"
+      },
+      "original": {
+        "owner": "umd-lhcb",
+        "repo": "root-curated",
+        "type": "github"
       }
     }
   },
