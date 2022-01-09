@@ -22,6 +22,7 @@
         title: Postdoc
         email: sabraun@umd.edu
         address: 3105 Physical Sciences Complex
+      - linebreak: true
       - name: Zishuo Yang
         title: Graduate Student
         email: yangzs@umd.edu
@@ -33,6 +34,10 @@
       - name: Alex Fernez
         title: Graduate Student
         email: afernez@umd.edu
+        address: 3119 Physical Sciences Complex
+      - name: Emily Kaiyin Jiang
+        title: Graduate Student
+        email: ejiang@umd.edu
         address: 3119 Physical Sciences Complex
   photos:
     - file: photos/group_members-191210.jpg
