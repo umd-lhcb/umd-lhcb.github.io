@@ -2,11 +2,12 @@
   description = "Group website.";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
-    flake-utils.url = "github:numtide/flake-utils";
+    root-curated.url = "github:umd-lhcb/root-curated";
+    nixpkgs.follows = "root-curated/nixpkgs";
+    flake-utils.follows = "root-curated/flake-utils";
   };
 
-  outputs = { self, nixpkgs, flake-utils }:
+  outputs = { self, nixpkgs, flake-utils, root-curated }:
     flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = import nixpkgs { inherit system; };
