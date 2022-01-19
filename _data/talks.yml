@@ -141,6 +141,21 @@ Phoebe Hamilton:
       date: 2015-08-07
 
 William Parker:
+    - title: CP violation measurements in $B^+ \to K^+\pi^0$ at LHCb
+      url: https://indico.ihep.ac.cn/event/12805/session/44/contribution/194/material/slides/0.pdf
+      meeting: Conference on Flavor Physics and CP Violation 2021
+      location: Shanghai, China / Virtual
+      date: 2021-06-09
+    - title: Direct CP violation in the decay $B^+ \to K^+\pi^0$ at LHCb
+      url: https://indico.cern.ch/event/941488/attachments/2149319/3631392/WCP_CERN_seminar_120120.pdf
+      meeting: LHC Seminar
+      location: Virtual
+      date: 2020-12-01
+    - title: Measurement of Direct CP violation in the decay $B^+ \to K^+\pi^0$
+      url: https://indico.cern.ch/event/857473/contributions/4075050/attachments/2131519/3589858/WCP_K%2Bpi0_implications_102820.pdf
+      meeting: LHCb Implications Workshop
+      location: Virtual
+      date: 2020-10-28
     - title: The LHCb Upstream Tracker for Phase I upgrade
       url: https://indico.cern.ch/event/452781/contributions/2297533/attachments/1343398/2024078/UT_Overview_WCP_092716.pdf
       meeting: Vertex 2016
