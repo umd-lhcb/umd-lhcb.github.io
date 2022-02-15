@@ -168,11 +168,22 @@ William Parker:
       date: 2016-11-04
 
 Svende Braun:
+    - title: CKM measurements and hadronic form factors
+      url: https://indico.cern.ch/event/986604/contributions/4250206/attachments/2235629/3790503/Braun_SMatLHC2021.pdf
+      meeting: Standard Model at the LHC 2021
+      location: Virtual
+      date: 2021-04-29
+    - title: Measurement of the CKM matrix elements $|V_{ub}|/|V_{cb}|$ from semileptonic $B_s$ decays at LHCb
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/21-04-18_svende_APS2021.pdf
+      meeting: APS April Meeting 2021
+      location: Virtual
+      date: 2021-04-18
     - title: Semileptonic $B$ Decays at LHCb
       url: https://indico.ipmu.jp/event/320/contributions/5127/attachments/3340/4462/Braun_Beauty2020.pdf
       meeting: BEAUTY 2020 (19th International Conference on $B$-Physics at Frontier Machines)
       location: Virtual
       date: 2020-09-22
+    
 
 Jack Wimberley:
     - title: CP violation in $B$ and $B_s$ decays
