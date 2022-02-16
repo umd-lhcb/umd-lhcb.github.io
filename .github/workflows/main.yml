@@ -7,7 +7,6 @@ on:
 
 jobs:
   tests:
-    if: "!contains(github.event.head_commit.message, 'skip ci')"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -17,6 +16,9 @@ jobs:
       with:
           extra_nix_config: |
               access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
+    - uses: cachix/cachix-action@v10
+      with:
+          name: umd-lhcb-group-website
 
     - run: nix develop --no-update-lock-file -c jekyll build
     - run: ls
