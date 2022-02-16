@@ -25,6 +25,8 @@
             bundix
             gems
             gems.wrappedRuby
+
+            cachix
           ];
         };
       });
