@@ -215,3 +215,10 @@ Zishuo Yang:
       meeting: US LHC Users Association Meeting, Fermi National Accelerator Laboratory
       location: Batavia, IL
       date: 2018-10-26
+      
+Alex Fernez:
+    - title: LHCb Upgrade: Periphery Electronics Processing Interface for the Upstream Tracker
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/21-04-17_afernez_ut_pepi_aps_april2021.pdf
+      meeting: APS April Meeting 2021
+      location: Virtual
+      date: 2021-04-17
