@@ -14,15 +14,10 @@
         title: Postdoc
         email: pmham@umd.edu
         address: 3208E Physical Sciences Complex
-      - name: William Parker
-        title: Postdoc
-        email: wcparker@umd.edu
-        address: 3105 Physical Sciences Complex
       - name: Svende Braun
         title: Postdoc
         email: sabraun@umd.edu
         address: 3105 Physical Sciences Complex
-      - linebreak: true
       - name: Zishuo Yang
         title: Graduate Student
         email: yangzs@umd.edu
@@ -63,6 +58,8 @@
 
 - section: Former graduate students and postdocs
   members:
+      - name: William Parker
+        title: Research scientists at the Johns Hopkins University Applied Physics Laboratory
       - name: Jason Andrews
         title: PhD
       - name: Jack Wimberley
