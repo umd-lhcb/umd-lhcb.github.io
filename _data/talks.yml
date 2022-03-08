@@ -111,13 +111,14 @@ Manuel Franco Sevilla:
       location: Boston, MA
       date: 2019-07-31
 
+
 Phoebe Hamilton:
     - title: Pushing the Envelope at LHCb (& MoEDAL)
       url: https://indico.cern.ch/event/974327/contributions/4146480/attachments/2161204/3646543/202012-Hamilton-Jamboree-v3.pdf
       meeting: 2020 CERN Council Meeting Physics Jamboree
       location: CERN
       date: 2020-12-11
-    - title: Unexpected LHCb&#58; Neutrals, Neutrinos, Taus, and all that
+    - title: "Unexpected LHCb: Neutrals, Neutrinos, Taus, and all that"
       url: https://indico.belle2.org/event/5492/contributions/28664/attachments/14235/21493/Hamilton-Belle2PhysWk.pdf
       meeting: 2021 Belle II Physics Week
       location: Rome, Italy
@@ -127,9 +128,9 @@ Phoebe Hamilton:
       meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
       location: Boston, MA
       date: 2019-07-30
-      
+
 Brian Hamilton:
-    - title: Measurement of the semitauonic decay B0 -> D*- tau+ nu at LHCb
+    - title: Measurement of the semitauonic decay $B_0 \rightarrow D^{*-} \tau^+ \nu$ at LHCb
       url: https://lhcb.web.cern.ch/lhcb_page/lhcb_documents/presentations/Seminars/hamilton-LHC-seminar-2.pdf
       meeting: CERN Seminar
       location: CERN
@@ -200,7 +201,7 @@ Svende Braun:
       meeting: BEAUTY 2020 (19th International Conference on $B$-Physics at Frontier Machines)
       location: Virtual
       date: 2020-09-22
-    
+
 
 Jack Wimberley:
     - title: CP violation in $B$ and $B_s$ decays
@@ -237,7 +238,7 @@ Zishuo Yang:
       meeting: APS April Meeting 2021
       location: Virtual
       date: 2021-04-18
-      
+
 Alex Fernez:
     - title: "LHCb Upgrade: Periphery Electronics Processing Interface for the Upstream Tracker"
       url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/21-04-17_afernez_ut_pepi_aps_april2021.pdf
