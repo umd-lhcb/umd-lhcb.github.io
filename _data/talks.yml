@@ -122,16 +122,18 @@ Phoebe Hamilton:
       meeting: 2021 Belle II Physics Week
       location: Rome, Italy
       date: 2021-12-02
-    - title: Measurement of the semitauonic decay B0 -> D*- tau+ nu at LHCb
-      url: https://lhcb.web.cern.ch/lhcb_page/lhcb_documents/presentations/Seminars/hamilton-LHC-seminar-2.pdf
-      meeting: CERN Seminar
-      location: CERN
-      date: 2015-06-30
     - title: Results on Lepton Flavor Universality Tests at LHCb
       url: https://indico.cern.ch/event/782953/contributions/3441656/attachments/1888289/3113418/Hamilton-DPFtalk.pdf
       meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical Society
       location: Boston, MA
       date: 2019-07-30
+      
+Brian Hamilton:
+    - title: Measurement of the semitauonic decay B0 -> D*- tau+ nu at LHCb
+      url: https://lhcb.web.cern.ch/lhcb_page/lhcb_documents/presentations/Seminars/hamilton-LHC-seminar-2.pdf
+      meeting: CERN Seminar
+      location: CERN
+      date: 2015-06-30
     - title: Recent Results in Semileptonic $B$ Decays with BABAR
       url: https://indico.cern.ch/event/129980/session/16/contribution/21/attachments/90374/129331/Hamilton-DPF-2011-v2.pdf
       meeting: 2011 Meeting of the Division of Particles & Fields of the American Physical Society
