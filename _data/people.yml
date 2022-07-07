@@ -35,10 +35,8 @@
         email: ejiang@umd.edu
         address: 3119 Physical Sciences Complex
   photos:
-    - file: photos/group_members-191210.jpg
-      caption: "From left to right: Phoebe Hamilton, Will Parker, Hassan Jawahery, Yipeng Sun, Manuel Franco Sevilla, Zishuo Yang."
-    - file: photos/svende_raymond_rhea.jpg
-      caption: "From left to right: Raymond (undergrad), Svende Braun, Rhea (undergrad)."
+    - file: photos/UMD_LHCb_group.jpg
+      caption: "From left to right: Emily Jiang, Yipeng Sun, Alex Fernez, Manuel Franco Sevilla, Svende Braun, Hassan Jawahery, Phoebe Hamilton, Zishuo Yang."
 
 - section: Administrative assistant
   members:
