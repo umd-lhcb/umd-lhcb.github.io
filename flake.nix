@@ -25,6 +25,7 @@
             bundix
             gems
             gems.wrappedRuby
+            nodejs
 
             cachix
           ];
