@@ -152,8 +152,10 @@
         url: https://github.com/umd-lhcb/electronic-projects/raw/master/dcb/2019-09-30_dcb_gerber.zip
       - title: Mechanical assembly
         url: https://umd-lhcb.github.io/ut-hw-doc/dcb/dcb_assembly/dcb_assembly/
-      - title: DCB manual
+      - title: DCB manual (obsolete)
         url: https://github.com/umd-lhcb/gbtx_brds_doc/releases/download/0.8.5/gbtx_brds_doc.pdf
+      - title: DCB operation manual
+        url: ../research/ut/dcb_operation_manual.pdf
       - title: Photos
         url: https://umd.box.com/s/zl7n0ecf4e74j1ur3qi2hi95nt4d22xo
 
