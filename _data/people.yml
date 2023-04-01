@@ -14,10 +14,10 @@
         title: Postdoc
         email: pmham@umd.edu
         address: 3208E Physical Sciences Complex
-      - name: Svende Braun
+      - name: Christos Hadjivasiliou
         title: Postdoc
-        email: sabraun@umd.edu
-        address: 3105 Physical Sciences Complex
+        email: christos.hadjivasiliou@cern.ch
+        address: CERN
       - name: Zishuo Yang
         title: Graduate Student
         email: yangzs@umd.edu
@@ -56,6 +56,8 @@
 
 - section: Former graduate students and postdocs
   members:
+      - name: Svende Braun
+        title: Postdoc at University of Washington, Seattle
       - name: William Parker
         title: Research scientist at the Johns Hopkins University Applied Physics Laboratory
       - name: Jason Andrews
