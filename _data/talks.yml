@@ -75,13 +75,13 @@ Hassan Jawahery:
 Manuel Franco Sevilla:
     - title: "A new frontier of precision physics: LHCb Upgrade II"
       url: https://indico.fnal.gov/event/58272/contributions/262211/attachments/165117/219285/23-03-22_manuelf_LHCb_P5.pdf
-      location: Batavia, IL
+      location: Fermilab, Batavia, IL
       meeting: P5 Townhall
       date: 2023-03-21
     - title: LHCb status of anomalies in $b \rightarrow c \tau \nu$ transition
       url: https://scgp.stonybrook.edu/video/video.php?id=5729
       location: Stony Brook, NY
-      meeting: "Workshop: Anormalies"
+      meeting: "ANOMALIES Workshop"
       date: 2023-03-08
     - title: Recent results from LHCb
       url: https://indico.cern.ch/event/1126527/contributions/4818956/attachments/2459591/4216838/22-06-09_manuelf_lhcb_PPC.pdf
@@ -135,8 +135,8 @@ Manuel Franco Sevilla:
 Phoebe Hamilton:
     - title: Overview of electronic and PMT studies, and possible R&D plans at Maryland
       url: https://indico.cern.ch/event/1248281/contributions/5245087/attachments/2613796/4516830/PMTandElectronics-v3.pdf
-      meeting: US contribution to LHCb's Upgrade II workshop
-      location: College Park, MD
+      meeting: US contributions to LHCb's Upgrade II workshop
+      location: University of Maryland, College Park, MD
       date: 2023-03-17
     - title: Pushing the Envelope at LHCb (& MoEDAL)
       url: https://indico.cern.ch/event/974327/contributions/4146480/attachments/2161204/3646543/202012-Hamilton-Jamboree-v3.pdf
