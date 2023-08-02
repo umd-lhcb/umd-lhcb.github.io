@@ -9,31 +9,23 @@
         email: manuelf@umd.edu
         address: 3114 Physical Sciences Complex
         website: http://flavor.physics.umd.edu/manuelf
-      - linebreak: true
       - name: Phoebe Hamilton
-        title: Postdoc
+        title: Assistant Professor
         email: pmham@umd.edu
         address: 3208E Physical Sciences Complex
+      - linebreak: true
       - name: Christos Hadjivasiliou
         title: Postdoc
         email: christos.hadjivasiliou@cern.ch
         address: CERN, 11-1-006
-      - name: Zishuo Yang
-        title: Graduate Student
-        email: yangzs@umd.edu
-        address: 3101 Physical Sciences Complex
-      - name: Yipeng Sun
-        title: Graduate Student
-        email: syp@umd.edu
-        address: 3101 Physical Sciences Complex
       - name: Alex Fernez
         title: Graduate Student
         email: afernez@umd.edu
-        address: 3119 Physical Sciences Complex
+        address: 3105 Physical Sciences Complex
       - name: Emily Jiang
         title: Graduate Student
         email: ejiang@umd.edu
-        address: 3119 Physical Sciences Complex
+        address: 3105 Physical Sciences Complex
   photos:
     - file: photos/UMD_LHCb_group.jpg
       caption: "From left to right: Emily Jiang, Yipeng Sun, Alex Fernez, Manuel Franco Sevilla, Svende Braun, Hassan Jawahery, Phoebe Hamilton, Zishuo Yang."
