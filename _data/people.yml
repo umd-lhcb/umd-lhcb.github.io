@@ -13,7 +13,6 @@
         title: Assistant Professor
         email: pmham@umd.edu
         address: 3208E Physical Sciences Complex
-      - linebreak: true
       - name: Christos Hadjivasiliou
         title: Postdoc
         email: christos.hadjivasiliou@cern.ch
@@ -30,8 +29,12 @@
     - file: photos/UMD_LHCb_group.jpg
       caption: "From left to right: Emily Jiang, Yipeng Sun, Alex Fernez, Manuel Franco Sevilla, Svende Braun, Hassan Jawahery, Phoebe Hamilton, Zishuo Yang."
 
-- section: Administrative assistant
+- section: Administrative assistants
   members:
+      - name: Yu (Jessie) Zhang
+        title: Group Secretary
+        email: yzhang30@umd.edu
+        address: 2101 Physical Sciences Complex
       - name: Sally Megonigal
         title: Group Secretary
         email: smegonig@umd.edu
@@ -48,6 +51,12 @@
 
 - section: Former graduate students and postdocs
   members:
+      - name: Phoebe Hamilton
+        title: Assistant Professor at UMD
+      - name: Zishuo Yang
+        title: Research scientist at the Johns Hopkins University Applied Physics Laboratory
+      - name: Yipeng Sun
+        title: PhD
       - name: Svende Braun
         title: Postdoc at University of Washington, Seattle
       - name: William Parker
@@ -56,8 +65,6 @@
         title: PhD
       - name: Jack Wimberley
         title: Software Engineer at Akamai
-      - name: Phoebe Hamilton
-        title: Postdoc at UMD
       - name: Riccardo Cenci
         title: Research Associate at INFN Sezione di Pisa, Italy
       - name: Gabriele Simi
