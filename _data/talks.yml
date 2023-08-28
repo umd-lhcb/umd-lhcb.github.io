@@ -73,11 +73,26 @@ Hassan Jawahery:
       date: 2003-08-12
 
 Manuel Franco Sevilla:
+    - title: "Highlights from LHCb"
+      url: https://indico.desy.de/event/34916/contributions/142216/attachments/84333/111705/23-08-23_manuelf_lhcb_EPS-HEP_Hamburg.pdf
+      location: Hamburg, Germany
+      meeting: EPS-HEP2023
+      date: 2023-08-23
     - title: "Review of LFU results at LHCb"
       url: https://indico.fnal.gov/event/59091/contributions/270414/attachments/168886/226492/23-07-13_manuelf_LFU_SM_LHC_FNAL.pdf
       location: Fermilab, Batavia, IL
       meeting: SM@LHC
       date: 2023-07-13
+    - title: "UT: Production and installation of a new tracker for a triggerless LHCb"
+      url: https://indico.cern.ch/event/1320102/contributions/5555525/attachments/2704250/4694233/23-04-27_manuelf_UT_seminar_UMD.pdf
+      location: College Park, MD
+      meeting: University of Maryland seminar
+      date: 2023-04-27
+    - title: "The ups and downs of the flavor anomalies at LHCb"
+      url: https://indico.cern.ch/event/1320102/contributions/5555521/attachments/2704246/4694230/23-04-06_manuelf_LFU_seminar_UW.pdf
+      location: Seattle, WA
+      meeting: University of Washington seminar
+      date: 2023-04-06
     - title: "A new frontier of precision physics: LHCb Upgrade II"
       url: https://indico.fnal.gov/event/58272/contributions/262211/attachments/165117/219285/23-03-22_manuelf_LHCb_P5.pdf
       location: Fermilab, Batavia, IL
@@ -100,8 +115,8 @@ Manuel Franco Sevilla:
       date: 2022-05-07
     - title: New physics in B decays? Challenges to Lepton Flavor Universality from LHCb and the B factories
       url: http://flavor.physics.umd.edu/manuelf/talks/21-09-07_manuelf_LFU_UMD_colloquium.pdf
-      location: University of Maryland
-      note: Physics departmental colloquium
+      location: College Park, MC
+      note: University of Maryland colloquium
       date: 2021-09-07
     - title: ${\cal R}(D^{(*)})$, ${\cal R}_{K^{(*)}}$, and their cousins - update on the continued challenges to lepton flavor universality
       url: http://flavor.physics.umd.edu/manuelf/talks/21-05-05_manuelf_LFU_JHU_UMD_seminar_nobackup.pdf
@@ -143,6 +158,16 @@ Phoebe Hamilton:
       meeting: US contributions to LHCb's Upgrade II workshop
       location: University of Maryland, College Park, MD
       date: 2023-03-17
+    - title: "Lepton flavor universality tests with $b \rightarrow c \ell \nu$ at LHC"
+      url: https://github.com/umd-lhcb/group-talks-pub/blob/main/seminars/23-02-22_PMH_UMD_seminar_RDRDst.pdf
+      location: College Park, MD
+      meeting: University of Maryland seminar
+      date: 2023-02-22
+    - title: "Joint Measurement of $R(D)$ vs $R(D^∗)$ using $\tau \rightarrow \mu \nu\nu$ at LHCb"
+      url: https://indico.cern.ch/event/1166230/contributions/5095805/attachments/2531166/4355199/IW2022talk_hamilton_v4.pdf
+      location: CERN, Geneva, Switzerland
+      meeting: Workshop on Implications of LHCb measurements and future prospects
+      date: 2022-10-19
     - title: Pushing the Envelope at LHCb (& MoEDAL)
       url: https://indico.cern.ch/event/974327/contributions/4146480/attachments/2161204/3646543/202012-Hamilton-Jamboree-v3.pdf
       meeting: 2020 CERN Council Meeting Physics Jamboree
