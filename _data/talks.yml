@@ -73,22 +73,22 @@ Hassan Jawahery:
       date: 2003-08-12
 
 Manuel Franco Sevilla:
-    - title: "Highlights from LHCb"
+    - title: Highlights from LHCb
       url: https://indico.desy.de/event/34916/contributions/142216/attachments/84333/111705/23-08-23_manuelf_lhcb_EPS-HEP_Hamburg.pdf
       location: Hamburg, Germany
       meeting: EPS-HEP2023
       date: 2023-08-23
-    - title: "Review of LFU results at LHCb"
+    - title: Review of LFU results at LHCb
       url: https://indico.fnal.gov/event/59091/contributions/270414/attachments/168886/226492/23-07-13_manuelf_LFU_SM_LHC_FNAL.pdf
       location: Fermilab, Batavia, IL
-      meeting: SM@LHC
+      meeting: SM@LHC workshop
       date: 2023-07-13
     - title: "UT: Production and installation of a new tracker for a triggerless LHCb"
       url: https://indico.cern.ch/event/1320102/contributions/5555525/attachments/2704250/4694233/23-04-27_manuelf_UT_seminar_UMD.pdf
       location: College Park, MD
       meeting: University of Maryland seminar
       date: 2023-04-27
-    - title: "The ups and downs of the flavor anomalies at LHCb"
+    - title: The ups and downs of the flavor anomalies at LHCb
       url: https://indico.cern.ch/event/1320102/contributions/5555521/attachments/2704246/4694230/23-04-06_manuelf_LFU_seminar_UW.pdf
       location: Seattle, WA
       meeting: University of Washington seminar
@@ -101,14 +101,14 @@ Manuel Franco Sevilla:
     - title: LHCb status of anomalies in $b \rightarrow c \tau \nu$ transition
       url: https://scgp.stonybrook.edu/video/video.php?id=5729
       location: Stony Brook, NY
-      meeting: "ANOMALIES Workshop"
+      meeting: ANOMALIES Workshop
       date: 2023-03-08
     - title: Recent results from LHCb
       url: https://indico.cern.ch/event/1126527/contributions/4818956/attachments/2459591/4216838/22-06-09_manuelf_lhcb_PPC.pdf
       location: Washington University, St. Louis, MO
       meeting: "PPC 2022: Interconnections between Particle Physics and Cosmology"
       date: 2022-06-09
-    - title: "Report from the Energy Frontier to the Rare and Precision Frontier"
+    - title: Report from the Energy Frontier to the Rare and Precision Frontier
       url: https://indico.fnal.gov/event/51844/contributions/240029/attachments/155485/202455/22-05-19_manuelf_EF_at_RPF_workshop.pdf
       location: Cincinnati, OH
       meeting: Snowmass Rare and Precision Measurements Frontier Spring Meeting
@@ -158,12 +158,12 @@ Phoebe Hamilton:
       meeting: US contributions to LHCb's Upgrade II workshop
       location: University of Maryland, College Park, MD
       date: 2023-03-17
-    - title: "Lepton flavor universality tests with $b \rightarrow c \ell \nu$ at LHC"
+    - title: Lepton flavor universality tests with $b \rightarrow c \ell \nu$ at LHC
       url: https://github.com/umd-lhcb/group-talks-pub/blob/main/seminars/23-02-22_PMH_UMD_seminar_RDRDst.pdf
       location: College Park, MD
       meeting: University of Maryland seminar
       date: 2023-02-22
-    - title: "Joint Measurement of $R(D)$ vs $R(D^∗)$ using $\tau \rightarrow \mu \nu\nu$ at LHCb"
+    - title: Joint Measurement of $R(D)$ vs $R(D^*)$ using $\tau \rightarrow \mu \nu\nu$ at LHCb
       url: https://indico.cern.ch/event/1166230/contributions/5095805/attachments/2531166/4355199/IW2022talk_hamilton_v4.pdf
       location: CERN, Geneva, Switzerland
       meeting: Workshop on Implications of LHCb measurements and future prospects
