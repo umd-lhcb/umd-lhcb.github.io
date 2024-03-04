@@ -19,20 +19,20 @@ Currently, our research focuses on the following areas:
 * Tests of **lepton flavor universality**, a fundamental assumption within the
   SM that states that the interactions of all charged leptons (electrons,
   muons, and taus) differ only because of their different masses.  Currently,
-  [semitauonic $B$ decays](https://doi.org/10.1038/nature22346) such as $B \to D^{(*)}\tau\nu_\tau$ present a
-  deviation with respect to the SM predictions that is significant at the 3.8σ
+  [semitauonic $B$ decays](https://doi.org/10.1103/RevModPhys.94.015003) such as $B \to D^{(*)}\tau\nu_\tau$ present a
+  deviation with respect to the SM predictions that is significant at the 3.3σ
   level, eliciting great interest in the particle physics community.
 * **CP violation** measurements that may help explain why our universe has so much more matter than anti-matter.
   Currently focusing on $B^+ \to K^+\pi^0$ and $B^0 \to {K_S} ^0\pi^0$ decays, which could also help resolve
   the so-called $K\pi$ puzzle.
-* The **readout electronics** for the new Upstream Tracker detector to be
-  installed into LHCb during 2019 and 2020. This upgraded detector will start
-  to collect run-3 data scheduled at 2021.
+* The new Upstream Tracker, a silicon-strip sub-detector
+  installed into LHCb during 2022 and 2023. This upgraded detector will start
+  to collect run-3 data in 2024.
 
-{% include figure.html file="lhcb_detector_3d.jpg"
+{% include figure.html file="C_side_installation_16.jpg"
                        alt="LHCb detector"
-                       caption="A 3D rendering of the LHCb detector."
+                       caption="The LHCb cavern with the the Upstream Tracker being hoisted for installation."
 %}
 
-If you are interested in learning more about what we do, just email us at [jawahery@umd.edu](mailto:jawahery@umd.edu)
-or [manuelf@umd.edu](mailto:manuelf@umd.edu) and include some information about yourself.
+If you are interested in learning more about what we do, just email us at [jawahery@umd.edu](mailto:jawahery@umd.edu),
+[manuelf@umd.edu](mailto:manuelf@umd.edu) or [pmham@umd.edu](mailto:pmham@umd.edu) and include some information about yourself.

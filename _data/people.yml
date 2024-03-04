@@ -17,6 +17,14 @@
         title: Postdoc
         email: christos.hadjivasiliou@cern.ch
         address: CERN, 11-1-006
+      - name: Parker Gardner
+        title: Postdoc
+        email: parkerg@umd.edu
+        address: 3101 Physical Sciences Complex
+      - name: Lucas Garcia
+        title: Postdoc
+        email: lmeyerga@umd.edu
+        address: CERN, 11-1-006
       - name: Alex Fernez
         title: Graduate Student
         email: afernez@umd.edu
@@ -56,7 +64,7 @@
       - name: Zishuo Yang
         title: Research scientist at the Johns Hopkins University Applied Physics Laboratory
       - name: Yipeng Sun
-        title: PhD
+        title: Software developer at ZWSoft
       - name: Svende Braun
         title: Postdoc at University of Washington, Seattle
       - name: William Parker
