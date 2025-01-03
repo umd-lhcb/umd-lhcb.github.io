@@ -33,9 +33,13 @@
         title: Graduate Student
         email: ejiang@umd.edu
         address: 3105 Physical Sciences Complex
+      - name: Elizabeth Kowalczyk
+        title: Graduate Student
+        email: ekowal@umd.edu
+        address: 3119 Physical Sciences Complex
   photos:
-    - file: photos/UMD_LHCb_group.jpg
-      caption: "From left to right: Emily Jiang, Yipeng Sun, Alex Fernez, Manuel Franco Sevilla, Svende Braun, Hassan Jawahery, Phoebe Hamilton, Zishuo Yang."
+    - file: photos/UMD_LHCb_group-241007.jpg
+      caption: "From left to right: Manuel Franco Sevilla, Hassan Jawahery, Phoebe Hamilton, Alex Fernez, Elizabeth Kowalczyk, Emily Jiang, Parker Gardner."
 
 - section: Administrative assistants
   members:
