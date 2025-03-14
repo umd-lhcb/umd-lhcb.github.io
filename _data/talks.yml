@@ -300,6 +300,16 @@ Zishuo Yang:
       date: 2021-04-18
 
 Alex Fernez:
+    - title: "Tests of Lepton Flavor Universality in tree-level B Meson Decays at LHCb"
+      url: http://vietnam.in2p3.fr/2024/PASCOS/transparencies/3_wednesday/W1P4/01_Fernez.pdf
+      meeting: 20th Rencontres du Vietnam, PASCOS2024
+      location: Quy Nhon, Vietnam
+      date: 2024-07-10
+    - title: "Tests of Lepton Flavor Universality in tree-level B Meson Decays at LHCb"
+      url: https://indico.global/event/805/contributions/23794/attachments/11364/16831/24-05-16_recent_lhcb_bctau_lfuv--dpf.pdf
+      meeting: APS Division of Particles & Fields (DPF) Meeting - PHENO 2024
+      location: Pittsburgh, PA
+      date: 2024-05-16
     - title: "LHCb Upgrade: Periphery Electronics Processing Interface for the Upstream Tracker"
       url: https://github.com/umd-lhcb/group-talks-pub/blob/main/conferences/21-04-17_afernez_ut_pepi_aps_april2021.pdf
       meeting: APS April Meeting 2021
