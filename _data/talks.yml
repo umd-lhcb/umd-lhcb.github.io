@@ -326,3 +326,10 @@ Emily Jiang:
       meeting: Flavor Physics and CP Violation 2026 (FPCP)
       location: Bad Honnef, Germany
       date: 2026-05-21
+
+Lucas Meyer Garcia:
+    - title: "Probing Lepton Flavour Universality at LHCb"
+      url: https://github.com/umd-lhcb/group-talks/blob/master/public/25-12-05_INCT_RDX.pdf
+      meeting: INCT CERN Brazil Data Analysis Lectures 2025
+      location: Virtual
+      date: 2025-12-05
