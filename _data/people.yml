@@ -17,11 +17,7 @@
         title: Postdoc
         email: christos.hadjivasiliou@cern.ch
         address: CERN, 11-1-006
-      - name: Parker Gardner
-        title: Postdoc
-        email: parkerg@umd.edu
-        address: 3101 Physical Sciences Complex
-      - name: Lucas Garcia
+      - name: Lucas Meyer Garcia
         title: Postdoc
         email: lmeyerga@umd.edu
         address: CERN, 11-1-006
@@ -36,7 +32,11 @@
       - name: Elizabeth Kowalczyk
         title: Graduate Student
         email: ekowal@umd.edu
-        address: 3119 Physical Sciences Complex
+        address: 3101 Physical Sciences Complex
+      - name: Santi Naylor
+        title: Graduate Student
+        email: rsnaylor@umd.edu
+        address: 3101 Physical Sciences Complex
   photos:
     - file: photos/UMD_LHCb_group-241007.jpg
       caption: "From left to right: Manuel Franco Sevilla, Hassan Jawahery, Phoebe Hamilton, Alex Fernez, Elizabeth Kowalczyk, Emily Jiang, Parker Gardner."
@@ -63,6 +63,8 @@
 
 - section: Former graduate students and postdocs
   members:
+      - name: Parker Gardner
+        title: Principal data scientist at Capital One Bank
       - name: Phoebe Hamilton
         title: Assistant Professor at UMD
       - name: Zishuo Yang
@@ -70,7 +72,7 @@
       - name: Yipeng Sun
         title: Software developer at ZWSoft
       - name: Svende Braun
-        title: Postdoc at University of Washington, Seattle
+        title: Postdoc at University of New Mexico,	Albuquerque
       - name: William Parker
         title: Research scientist at the Johns Hopkins University Applied Physics Laboratory
       - name: Jason Andrews
